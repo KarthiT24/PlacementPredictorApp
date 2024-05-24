@@ -1,0 +1,5552 @@
+{
+    "Zoho": {
+        "2004": {
+            "skills": {
+                "Flask": 3.3,
+                "SAP": 0.55,
+                "MySQL": 0.55,
+                "Java": 4.95,
+                "PyCharm": 1.65,
+                "SQL": 0.55,
+                "C#": 1.65,
+                "Android": 3.3,
+                "C++": 0.55,
+                "React Native": 1.1,
+                "AWS": 0.55,
+                "Vue.js": 0.55,
+                "PHP": 0.55
+            },
+            "count": 189
+        },
+        "2005": {
+            "skills": {
+                "Java": 6.11,
+                "React Native": 3.82,
+                "PyCharm": 2.29,
+                "Python": 2.29,
+                "Angular": 0.76,
+                "Android": 1.53,
+                "Azure": 0.76,
+                "Ruby": 0.76,
+                "ASP": 0.76,
+                "AWS": 0.76,
+                "SAP": 0.76,
+                "Excel": 0.76,
+                "React.js": 0.76,
+                "C++": 1.53,
+                "Flask": 1.53,
+                "Artificial Intelligence": 0.76,
+                "JavaScript": 0.76,
+                "MySQL": 0.76,
+                "C#": 0.76
+            },
+            "count": 235
+        },
+        "2006": {
+            "skills": {
+                "PHP": 0.99,
+                "Java": 2.48,
+                "Android": 1.49,
+                "Flask": 1.73,
+                "React Native": 1.49,
+                "MongoDB": 0.5,
+                "Python": 2.48,
+                "Angular": 0.99,
+                "C++": 1.24,
+                "SAP": 0.25,
+                "PyCharm": 0.25,
+                "ASP.NET": 0.25,
+                "HTML5": 0.25,
+                "Azure": 0.25,
+                "AWS": 0.25,
+                "Excel": 0.25,
+                "Ruby": 0.74,
+                "C#": 0.25,
+                "PostgreSQL": 0.5,
+                "ASP": 0.25
+            },
+            "count": 339
+        },
+        "2007": {
+            "skills": {
+                "Android": 3.31,
+                "Flask": 1.66,
+                "Python": 3.87,
+                "AWS": 0.55,
+                "C++": 1.1,
+                "C#": 2.21,
+                "Java": 3.87,
+                "React Native": 1.1,
+                "MySQL": 1.1,
+                "JavaScript": 1.1,
+                "Node.js": 0.55,
+                "Git": 0.55,
+                "PyCharm": 0.55,
+                "PostgreSQL": 0.55,
+                "Ruby": 0.55
+            },
+            "count": 119
+        },
+        "2008": {
+            "skills": {
+                "Azure": 0.51,
+                "Java": 3.08,
+                "PostgreSQL": 0.51,
+                "Python": 2.56,
+                "Android": 3.08,
+                "Flask": 3.08,
+                "React Native": 3.08,
+                "C++": 1.54,
+                "Springboot": 1.03,
+                "Vue.js": 0.51,
+                "AWS": 1.03,
+                "PHP": 0.51,
+                "SAP": 1.03,
+                "Excel": 0.51
+            },
+            "count": 152
+        },
+        "2009": {
+            "skills": {
+                "Java": 2.28,
+                "Android": 2.51,
+                "React Native": 1.83,
+                "AWS": 0.46,
+                "PostgreSQL": 0.46,
+                "Python": 2.51,
+                "C++": 0.46,
+                "Springboot": 0.46,
+                "CSS3": 0.23,
+                "Angular": 0.23,
+                "MySQL": 0.23,
+                "Flask": 0.68,
+                "PyCharm": 0.23,
+                "SAP": 0.23,
+                "C#": 0.23,
+                "Perl": 0.23
+            },
+            "count": 294
+        },
+        "2010": {
+            "skills": {
+                "Python": 2.41,
+                "Android": 5.42,
+                "PostgreSQL": 0.6,
+                "ASP": 0.6,
+                "React Native": 3.01,
+                "MySQL": 0.6,
+                "Java": 1.81,
+                "Angular": 1.81,
+                "AWS": 0.6,
+                "Springboot": 0.6,
+                "NLP": 0.6,
+                "Flask": 1.81,
+                "ASP.NET": 1.2,
+                "Microsoft Excel": 0.6,
+                "PHP": 0.6,
+                "C++": 0.6,
+                "Figma": 0.6,
+                "Perl": 0.6,
+                "PyCharm": 0.6,
+                "SAP": 0.6
+            },
+            "count": 133
+        },
+        "2011": {
+            "skills": {
+                "React Native": 3.68,
+                "Python": 3.68,
+                "Flask": 3.68,
+                "Angular": 0.74,
+                "Azure": 0.74,
+                "Microsoft Excel": 0.74,
+                "Java": 1.47,
+                "PHP": 1.47,
+                "ASP.NET": 0.74,
+                "Salesforce": 0.74,
+                "C#": 0.74,
+                "Android": 4.41,
+                "MySQL": 0.74,
+                "Artificial Intelligence": 0.74,
+                "PyCharm": 0.74,
+                "Vue.js": 0.74,
+                "Git": 0.74,
+                "PostgreSQL": 0.74,
+                "C++": 1.47,
+                "SAP": 0.74
+            },
+            "count": 163
+        },
+        "2012": {
+            "skills": {
+                "Flask": 1.68,
+                "Python": 3.07,
+                "Angular": 0.28,
+                "React Native": 2.23,
+                "Java": 1.96,
+                "Android": 1.96,
+                "C#": 0.84,
+                "JavaScript": 0.56,
+                "PyCharm": 0.28,
+                "Ruby": 0.56,
+                "AWS": 0.28,
+                "Springboot": 0.84,
+                "C++": 0.56,
+                "Microsoft Excel": 0.28,
+                "MySQL": 0.56,
+                "SQL": 0.28
+            },
+            "count": 398
+        },
+        "2013": {
+            "skills": {
+                "Flask": 5.07,
+                "React Native": 3.62,
+                "MongoDB": 0.72,
+                "Java": 5.07,
+                "C++": 0.72,
+                "Ruby": 0.72,
+                "ASP": 0.72,
+                "Vue.js": 0.72,
+                "AWS": 0.72,
+                "Angular": 0.72,
+                "NLP": 0.72,
+                "Azure": 0.72,
+                "C#": 1.45,
+                "Excel": 0.72,
+                "PostgreSQL": 0.72
+            },
+            "count": 205
+        },
+        "2014": {
+            "skills": {
+                "Flask": 4.0,
+                "Java": 6.0,
+                "AWS": 2.0,
+                "React.js": 2.0,
+                "React Native": 1.0,
+                "C++": 2.0,
+                "Android": 5.0,
+                "CSS3": 1.0,
+                "Python": 2.0,
+                "Vue.js": 1.0,
+                "Oracle E-Business Suite": 1.0,
+                "PyCharm": 1.0,
+                "PostgreSQL": 1.0,
+                "Azure": 1.0
+            },
+            "count": 181
+        },
+        "2015": {
+            "skills": {
+                "SAP": 0.5,
+                "React Native": 1.0,
+                "PostgreSQL": 0.25,
+                "Java": 2.99,
+                "Python": 2.24,
+                "PyCharm": 0.5,
+                "Springboot": 0.75,
+                "Vue.js": 0.5,
+                "Oracle E-Business Suite": 0.5,
+                "MySQL": 0.5,
+                "VMware": 0.25,
+                "Flask": 0.5,
+                "Android": 2.49,
+                "C#": 0.75,
+                "AJAX": 0.25,
+                "Angular": 0.75,
+                "R": 0.25,
+                "Artificial Intelligence": 0.25,
+                "MongoDB": 0.25,
+                "Azure": 0.25,
+                "JavaScript": 0.25,
+                "C++": 0.25
+            },
+            "count": 331
+        },
+        "2016": {
+            "skills": {
+                "Angular": 1.52,
+                "Android": 4.55,
+                "Azure": 0.76,
+                "Java": 3.79,
+                "HTML-CSS": 1.52,
+                "JavaScript": 2.27,
+                "MongoDB": 0.76,
+                "Python": 3.03,
+                "React Native": 3.03,
+                "AWS": 1.52,
+                "C#": 0.76,
+                "SAP": 0.76,
+                "PHP": 0.76,
+                "Flask": 1.52,
+                "Springboot": 1.52,
+                "C++": 0.76,
+                "Artificial Intelligence": 0.76,
+                "Adobe": 0.76,
+                "PostgreSQL": 0.76,
+                "Microsoft Excel": 0.76
+            },
+            "count": 139
+        },
+        "2017": {
+            "skills": {
+                "Android": 3.75,
+                "React Native": 3.33,
+                "PyCharm": 0.83,
+                "Flask": 1.25,
+                "Salesforce": 0.42,
+                "Java": 2.5,
+                "JavaScript": 0.42,
+                "Node.js": 0.42,
+                "Azure": 0.83,
+                "Python": 1.67,
+                "C++": 1.25,
+                "C#": 0.83,
+                "ASP.NET": 0.42,
+                "AJAX": 0.42,
+                "Microsoft Excel": 0.42,
+                "Angular": 0.42,
+                "ASP": 0.42,
+                "PHP": 0.83,
+                "MySQL": 0.42
+            },
+            "count": 157
+        },
+        "2018": {
+            "skills": {
+                "C#": 0.69,
+                "Flask": 2.75,
+                "Android": 2.06,
+                "Java": 2.41,
+                "JavaScript": 0.34,
+                "React Native": 2.41,
+                "MySQL": 0.69,
+                "Python": 2.41,
+                "Perl": 0.34,
+                "Oracle E-Business Suite": 0.34,
+                "Angular": 0.34,
+                "HTML5": 0.34,
+                "Vue.js": 0.69,
+                "C++": 1.37,
+                "NLP": 0.34,
+                "CSS3": 0.34,
+                "Springboot": 1.03
+            },
+            "count": 258
+        },
+        "2019": {
+            "skills": {
+                "MySQL": 0.62,
+                "Adobe": 0.31,
+                "React Native": 2.19,
+                "Android": 3.75,
+                "Python": 2.81,
+                "C++": 0.31,
+                "JavaScript": 0.62,
+                "C#": 0.31,
+                "Springboot": 0.31,
+                "Java": 1.56,
+                "ASP.NET": 0.31,
+                "HTML-CSS": 0.31,
+                "Flask": 0.62,
+                "ASP": 0.31,
+                "Ruby": 0.31,
+                "AWS": 0.31
+            },
+            "count": 213
+        },
+        "2020": {
+            "skills": {
+                "Java": 4.79,
+                "Flask": 2.4,
+                "Android": 4.19,
+                "JavaScript": 0.6,
+                "MySQL": 1.8,
+                "React Native": 1.2,
+                "Python": 1.2,
+                "C#": 0.6,
+                "PyCharm": 1.8,
+                "Angular": 0.6,
+                "PHP": 0.6,
+                "C++": 1.2,
+                "HTML5": 0.6,
+                "Perl": 0.6,
+                "Springboot": 0.6,
+                "React.js": 0.6
+            },
+            "count": 118
+        },
+        "2021": {
+            "skills": {
+                "Android": 3.55,
+                "MongoDB": 0.32,
+                "PyCharm": 0.32,
+                "Java": 1.61,
+                "Flask": 1.61,
+                "Python": 2.58,
+                "VMware": 0.65,
+                "C++": 1.29,
+                "React Native": 1.61,
+                "Ruby": 0.65,
+                "C#": 0.97,
+                "React.js": 0.32,
+                "ASP.NET": 0.65,
+                "MySQL": 0.65,
+                "Figma": 0.32,
+                "HTML-CSS": 0.32,
+                "Git": 0.32,
+                "Springboot": 0.32,
+                "SAP": 0.32,
+                "Vue.js": 0.32
+            },
+            "count": 264
+        },
+        "2022": {
+            "skills": {
+                "Vue.js": 0.78,
+                "SQL": 0.39,
+                "Java": 3.52,
+                "MySQL": 0.78,
+                "React.js": 1.17,
+                "Python": 3.91,
+                "Android": 0.78,
+                "React Native": 2.34,
+                "AWS": 1.17,
+                "PostgreSQL": 0.39,
+                "Azure": 0.39,
+                "PyCharm": 0.39,
+                "Artificial Intelligence": 0.39,
+                "PHP": 0.39,
+                "Git": 0.39,
+                "Salesforce": 0.39,
+                "Flask": 0.39
+            },
+            "count": 254
+        },
+        "2023": {
+            "skills": {
+                "Flask": 4.32,
+                "PHP": 0.72,
+                "Python": 3.6,
+                "C#": 0.72,
+                "Java": 4.32,
+                "MySQL": 0.72,
+                "Angular": 0.72,
+                "PostgreSQL": 0.72,
+                "Android": 2.88,
+                "React.js": 0.72,
+                "CSS3": 0.72,
+                "PyCharm": 0.72,
+                "React Native": 0.72,
+                "Springboot": 0.72,
+                "Adobe": 0.72,
+                "C++": 2.16,
+                "JavaScript": 1.44,
+                "Azure": 0.72,
+                "Ruby": 0.72
+            },
+            "count": 199
+        },
+        "2024": {
+            "skills": {
+                "React Native": 5.66,
+                "Python": 2.83,
+                "Android": 5.66,
+                "Perl": 0.94,
+                "Java": 2.83,
+                "PHP": 1.89,
+                "VMware": 1.89,
+                "JavaScript": 0.94,
+                "C#": 0.94,
+                "MySQL": 0.94,
+                "C++": 0.94,
+                "Angular": 0.94,
+                "Figma": 0.94,
+                "Azure": 0.94
+            },
+            "count": 271
+        }
+    },
+    "CTS": {
+        "2004": {
+            "skills": {
+                "C++": 1.04,
+                "Flask": 6.25,
+                "React Native": 3.12,
+                "Springboot": 1.04,
+                "Figma": 1.04,
+                "Java": 2.08,
+                "Salesforce": 1.04,
+                "Python": 3.12,
+                "AJAX": 1.04,
+                "PyCharm": 2.08,
+                "Oracle E-Business Suite": 1.04,
+                "R": 1.04,
+                "Android": 4.17,
+                "AWS": 2.08,
+                "HTML5": 1.04,
+                "CSS3": 1.04,
+                "Azure": 1.04,
+                "PHP": 2.08
+            },
+            "count": 221
+        },
+        "2005": {
+            "skills": {
+                "SAP": 0.62,
+                "React Native": 4.38,
+                "ASP.NET": 0.62,
+                "JavaScript": 0.62,
+                "C++": 0.62,
+                "C#": 2.5,
+                "Python": 1.88,
+                "Java": 1.88,
+                "VMware": 1.25,
+                "Android": 4.38,
+                "AWS": 1.25,
+                "Flask": 1.88,
+                "Angular": 0.62,
+                "Springboot": 1.25,
+                "Git": 0.62,
+                "PyCharm": 0.62
+            },
+            "count": 361
+        },
+        "2006": {
+            "skills": {
+                "Java": 2.26,
+                "AWS": 0.48,
+                "MySQL": 0.32,
+                "Android": 1.45,
+                "Flask": 1.45,
+                "React.js": 0.48,
+                "Azure": 0.32,
+                "Springboot": 0.32,
+                "PostgreSQL": 0.16,
+                "Python": 2.1,
+                "PyCharm": 0.32,
+                "React Native": 0.81,
+                "PHP": 0.16,
+                "ASP": 0.16,
+                "C++": 0.65,
+                "Microsoft Excel": 0.16,
+                "HTML-CSS": 0.16,
+                "C#": 0.48,
+                "SQL": 0.16,
+                "Excel": 0.16,
+                "JavaScript": 0.16,
+                "SAP": 0.16
+            },
+            "count": 401
+        },
+        "2007": {
+            "skills": {
+                "Python": 5.36,
+                "React Native": 4.46,
+                "Java": 2.68,
+                "Flask": 3.57,
+                "Perl": 0.89,
+                "SAP": 2.68,
+                "Azure": 0.89,
+                "Ruby": 0.89,
+                "PyCharm": 1.79,
+                "PostgreSQL": 0.89,
+                "JavaScript": 0.89,
+                "ASP": 0.89,
+                "C++": 0.89,
+                "Vue.js": 0.89,
+                "C#": 0.89,
+                "Android": 1.79
+            },
+            "count": 90
+        },
+        "2008": {
+            "skills": {
+                "Flask": 3.49,
+                "C++": 1.94,
+                "Java": 3.49,
+                "Python": 1.94,
+                "CSS3": 0.39,
+                "PyCharm": 0.39,
+                "Android": 2.33,
+                "ASP": 0.39,
+                "Excel": 0.39,
+                "Angular": 0.39,
+                "JavaScript": 0.39,
+                "C#": 0.39,
+                "Salesforce": 0.39,
+                "PHP": 0.39,
+                "Ruby": 0.39
+            },
+            "count": 214
+        },
+        "2009": {
+            "skills": {
+                "Java": 2.96,
+                "Excel": 0.54,
+                "React Native": 1.08,
+                "C++": 0.81,
+                "Ruby": 1.34,
+                "SAP": 0.54,
+                "Azure": 0.27,
+                "HTML5": 0.27,
+                "Flask": 1.61,
+                "Python": 2.96,
+                "Springboot": 0.27,
+                "C#": 0.81,
+                "Android": 1.08,
+                "JavaScript": 0.27,
+                "Oracle E-Business Suite": 0.27,
+                "Vue.js": 0.27,
+                "Angular": 0.27,
+                "MySQL": 0.27,
+                "Figma": 0.27,
+                "ASP.NET": 0.27,
+                "PHP": 0.27
+            },
+            "count": 379
+        },
+        "2010": {
+            "skills": {
+                "Java": 4.05,
+                "Ruby": 0.81,
+                "React Native": 2.02,
+                "Android": 0.4,
+                "Python": 3.64,
+                "C++": 1.21,
+                "PHP": 0.81,
+                "Flask": 0.81,
+                "SAP": 0.4,
+                "Springboot": 1.21,
+                "C#": 0.4,
+                "AJAX": 0.4,
+                "VMware": 0.4,
+                "Figma": 0.81,
+                "MySQL": 0.4,
+                "PostgreSQL": 0.4
+            },
+            "count": 249
+        },
+        "2011": {
+            "skills": {
+                "PHP": 1.09,
+                "Azure": 0.54,
+                "Salesforce": 0.54,
+                "React Native": 5.43,
+                "R": 1.09,
+                "Flask": 2.17,
+                "Angular": 0.54,
+                "Python": 1.63,
+                "C++": 1.09,
+                "PyCharm": 0.54,
+                "Android": 2.72,
+                "Java": 1.63,
+                "JavaScript": 1.09,
+                "MySQL": 0.54,
+                "C#": 1.09
+            },
+            "count": 125
+        },
+        "2012": {
+            "skills": {
+                "AWS": 0.75,
+                "React.js": 0.5,
+                "Android": 2.26,
+                "Java": 2.26,
+                "React Native": 2.76,
+                "Flask": 1.26,
+                "Python": 1.76,
+                "ASP.NET": 0.25,
+                "Springboot": 0.5,
+                "MongoDB": 0.25,
+                "SAP": 0.5,
+                "Oracle E-Business Suite": 0.25,
+                "PostgreSQL": 0.25,
+                "C++": 0.5,
+                "C#": 0.75,
+                "Microsoft Excel": 0.25,
+                "Ruby": 0.25,
+                "Git": 0.25
+            },
+            "count": 292
+        },
+        "2013": {
+            "skills": {
+                "JavaScript": 0.66,
+                "Java": 4.64,
+                "Android": 3.31,
+                "SAP": 1.32,
+                "React Native": 3.97,
+                "Flask": 2.65,
+                "VMware": 1.32,
+                "Ruby": 1.32,
+                "C#": 0.66,
+                "Python": 1.99,
+                "Angular": 0.66,
+                "HTML-CSS": 0.66
+            },
+            "count": 162
+        },
+        "2014": {
+            "skills": {
+                "Ruby": 1.15,
+                "Angular": 0.57,
+                "Python": 4.02,
+                "React.js": 0.57,
+                "Flask": 2.3,
+                "React Native": 3.45,
+                "Java": 3.45,
+                "Android": 2.3,
+                "PHP": 1.15,
+                "SAP": 1.15,
+                "C#": 1.15,
+                "Node.js": 0.57,
+                "C++": 0.57,
+                "AWS": 0.57
+            },
+            "count": 224
+        },
+        "2015": {
+            "skills": {
+                "MySQL": 0.67,
+                "Python": 0.67,
+                "Java": 4.02,
+                "Android": 1.56,
+                "Ruby": 0.45,
+                "Flask": 1.12,
+                "Springboot": 0.22,
+                "React Native": 0.45,
+                "C++": 0.89,
+                "Vue.js": 0.22,
+                "PostgreSQL": 0.45,
+                "Node.js": 0.22,
+                "Angular": 0.22
+            },
+            "count": 349
+        },
+        "2016": {
+            "skills": {
+                "Java": 5.63,
+                "Flask": 2.16,
+                "React Native": 0.87,
+                "Vue.js": 0.43,
+                "Springboot": 0.43,
+                "R": 0.87,
+                "Python": 1.3,
+                "PHP": 0.43,
+                "Android": 1.73,
+                "AJAX": 0.43
+            },
+            "count": 176
+        },
+        "2017": {
+            "skills": {
+                "React Native": 5.29,
+                "Java": 1.76,
+                "Python": 2.94,
+                "Flask": 3.53,
+                "C#": 0.59,
+                "Android": 1.76,
+                "MySQL": 0.59,
+                "HTML-CSS": 0.59,
+                "Ruby": 0.59,
+                "C++": 1.18,
+                "Springboot": 0.59,
+                "PHP": 0.59
+            },
+            "count": 126
+        },
+        "2018": {
+            "skills": {
+                "React Native": 2.57,
+                "Python": 2.57,
+                "Flask": 1.29,
+                "Azure": 0.32,
+                "Android": 1.93,
+                "JavaScript": 0.64,
+                "Java": 3.22,
+                "SAP": 0.32,
+                "Angular": 0.64,
+                "C#": 0.32,
+                "PHP": 0.64,
+                "Ruby": 0.32,
+                "VMware": 0.32,
+                "ASP.NET": 0.32,
+                "MySQL": 0.96,
+                "C++": 0.32,
+                "PostgreSQL": 0.32,
+                "CSS3": 0.32,
+                "R": 0.32
+            },
+            "count": 306
+        },
+        "2019": {
+            "skills": {
+                "Flask": 4.65,
+                "React Native": 1.86,
+                "PyCharm": 0.47,
+                "AWS": 0.47,
+                "Python": 0.93,
+                "Android": 1.86,
+                "Java": 3.26,
+                "SAP": 0.47,
+                "C#": 1.86,
+                "MySQL": 0.47,
+                "PHP": 0.47,
+                "Excel": 0.93,
+                "React.js": 0.47,
+                "Angular": 0.47,
+                "VMware": 0.47,
+                "C++": 0.47,
+                "Git": 0.47
+            },
+            "count": 286
+        },
+        "2020": {
+            "skills": {
+                "Android": 3.92,
+                "Artificial Intelligence": 0.98,
+                "Java": 2.94,
+                "ASP.NET": 0.98,
+                "Ruby": 1.96,
+                "Microsoft Excel": 0.98,
+                "C#": 4.9,
+                "Flask": 3.92,
+                "React Native": 3.92,
+                "Python": 1.96,
+                "PHP": 0.98,
+                "ASP": 0.98,
+                "AWS": 1.96,
+                "C++": 0.98,
+                "JavaScript": 0.98,
+                "Vue.js": 0.98
+            },
+            "count": 206
+        },
+        "2021": {
+            "skills": {
+                "React Native": 2.85,
+                "AJAX": 0.32,
+                "ASP": 0.95,
+                "Flask": 1.9,
+                "Android": 1.9,
+                "Java": 2.85,
+                "Python": 2.22,
+                "AWS": 0.32,
+                "VMware": 0.32,
+                "Ruby": 0.32,
+                "PHP": 0.32,
+                "React.js": 0.95,
+                "NLP": 0.32,
+                "JavaScript": 0.32,
+                "Vue.js": 0.32,
+                "ASP.NET": 0.32,
+                "Perl": 0.32,
+                "MySQL": 0.32,
+                "Excel": 0.63
+            },
+            "count": 349
+        },
+        "2022": {
+            "skills": {
+                "Flask": 4.3,
+                "PostgreSQL": 0.72,
+                "C#": 1.08,
+                "Python": 2.51,
+                "Java": 1.43,
+                "Excel": 0.36,
+                "CSS3": 0.36,
+                "SAP": 0.36,
+                "MySQL": 0.36,
+                "PHP": 0.36,
+                "Angular": 0.36,
+                "Android": 1.79,
+                "React Native": 1.43,
+                "Node.js": 0.36,
+                "Ruby": 0.36,
+                "PyCharm": 0.36,
+                "AWS": 0.36,
+                "C++": 0.36,
+                "Vue.js": 0.72,
+                "Salesforce": 0.36
+            },
+            "count": 308
+        },
+        "2023": {
+            "skills": {
+                "Flask": 4.46,
+                "Azure": 1.12,
+                "C#": 0.37,
+                "Android": 1.49,
+                "Java": 1.49,
+                "ASP.NET": 0.37,
+                "Oracle E-Business Suite": 0.74,
+                "React Native": 1.49,
+                "AWS": 0.74,
+                "JavaScript": 0.37,
+                "Python": 1.49,
+                "MySQL": 0.37,
+                "PyCharm": 1.86,
+                "Springboot": 0.74,
+                "C++": 0.74,
+                "Vue.js": 0.37,
+                "Salesforce": 0.37,
+                "PHP": 0.74,
+                "Ruby": 0.37
+            },
+            "count": 176
+        },
+        "2024": {
+            "skills": {
+                "Java": 3.39,
+                "Oracle E-Business Suite": 1.69,
+                "Python": 10.17,
+                "React Native": 3.39,
+                "Springboot": 1.69,
+                "Flask": 1.69,
+                "JavaScript": 1.69,
+                "Ruby": 1.69,
+                "Azure": 1.69,
+                "HTML5": 1.69,
+                "Android": 3.39,
+                "SAP": 1.69,
+                "C#": 1.69,
+                "AJAX": 1.69,
+                "AWS": 1.69
+            },
+            "count": 144
+        }
+    },
+    "Salesforce": {
+        "2004": {
+            "skills": {
+                "Android": 6.9,
+                "Python": 10.34,
+                "Java": 3.45,
+                "React Native": 1.72,
+                "Flask": 1.72
+            },
+            "count": 27
+        },
+        "2005": {
+            "skills": {
+                "MongoDB": 2.94,
+                "Excel": 2.94,
+                "Java": 14.71,
+                "Flask": 2.94,
+                "Python": 2.94,
+                "MySQL": 2.94,
+                "React Native": 2.94,
+                "C#": 2.94,
+                "ASP.NET": 2.94,
+                "SAP": 2.94
+            },
+            "count": 24
+        },
+        "2006": {
+            "skills": {
+                "Java": 1.67,
+                "React Native": 1.67,
+                "Android": 10.0,
+                "Flask": 3.33,
+                "Python": 6.67,
+                "JavaScript": 1.67,
+                "C#": 1.67
+            },
+            "count": 30
+        },
+        "2007": {
+            "skills": {
+                "Artificial Intelligence": 7.69,
+                "SAP": 15.38,
+                "Node.js": 7.69,
+                "Flask": 7.69,
+                "AWS": 7.69,
+                "Android": 15.38,
+                "JavaScript": 7.69
+            },
+            "count": 20
+        },
+        "2008": {
+            "skills": {
+                "Vue.js": 22.22,
+                "ASP.NET": 11.11,
+                "C++": 11.11,
+                "MongoDB": 11.11,
+                "Springboot": 11.11,
+                "HTML-CSS": 11.11
+            },
+            "count": 33
+        },
+        "2009": {
+            "skills": {
+                "Python": 7.81,
+                "Flask": 6.25,
+                "React Native": 4.69,
+                "CSS3": 1.56,
+                "React.js": 1.56,
+                "Springboot": 1.56,
+                "MySQL": 1.56,
+                "Android": 1.56,
+                "Angular": 3.12,
+                "PyCharm": 1.56,
+                "PHP": 1.56,
+                "Vue.js": 1.56,
+                "Java": 1.56,
+                "C#": 1.56
+            },
+            "count": 42
+        },
+        "2010": {
+            "skills": {
+                "React Native": 21.43,
+                "AWS": 7.14,
+                "Flask": 7.14,
+                "Java": 7.14,
+                "Android": 7.14,
+                "Python": 7.14
+            },
+            "count": 23
+        },
+        "2011": {
+            "skills": {
+                "SQL": 9.09,
+                "Java": 9.09,
+                "Node.js": 9.09,
+                "Android": 18.18,
+                "Angular": 9.09,
+                "React Native": 9.09,
+                "Flask": 9.09,
+                "C++": 9.09
+            },
+            "count": 31
+        },
+        "2012": {
+            "skills": {
+                "PyCharm": 1.2,
+                "Java": 4.82,
+                "C++": 1.2,
+                "Node.js": 1.2,
+                "Python": 6.02,
+                "Android": 7.23,
+                "ASP": 1.2,
+                "Adobe": 1.2,
+                "MySQL": 1.2
+            },
+            "count": 40
+        },
+        "2013": {
+            "skills": {
+                "Flask": 16.67,
+                "PyCharm": 16.67,
+                "Angular": 16.67,
+                "Java": 16.67,
+                "Python": 16.67,
+                "React Native": 16.67
+            },
+            "count": 14
+        },
+        "2014": {
+            "skills": {
+                "Python": 27.27,
+                "ASP.NET": 9.09,
+                "Excel": 9.09
+            },
+            "count": 29
+        },
+        "2015": {
+            "skills": {
+                "Java": 5.0,
+                "Flask": 10.0,
+                "AWS": 5.0,
+                "Android": 10.0,
+                "Python": 5.0,
+                "SQL": 5.0,
+                "ASP": 5.0,
+                "SAP": 10.0,
+                "R": 5.0,
+                "React.js": 5.0,
+                "Ruby": 5.0
+            },
+            "count": 40
+        },
+        "2016": {
+            "skills": {
+                "MySQL": 4.76,
+                "Android": 9.52,
+                "Flask": 14.29,
+                "Python": 4.76,
+                "Angular": 4.76,
+                "React Native": 9.52,
+                "Springboot": 4.76
+            },
+            "count": 38
+        },
+        "2017": {
+            "skills": {
+                "PyCharm": 12.5,
+                "PostgreSQL": 12.5,
+                "React Native": 12.5,
+                "Android": 12.5,
+                "Python": 25.0
+            },
+            "count": 37
+        },
+        "2018": {
+            "skills": {
+                "Java": 5.36,
+                "VMware": 1.79,
+                "JavaScript": 1.79,
+                "Python": 10.71,
+                "React Native": 3.57,
+                "Excel": 1.79,
+                "Ruby": 1.79,
+                "PostgreSQL": 1.79,
+                "SAP": 1.79,
+                "C#": 1.79
+            },
+            "count": 40
+        },
+        "2019": {
+            "skills": {
+                "Android": 18.18,
+                "Java": 9.09,
+                "JavaScript": 9.09,
+                "Python": 9.09,
+                "Flask": 9.09,
+                "Oracle E-Business Suite": 9.09,
+                "ASP": 9.09,
+                "VMware": 9.09
+            },
+            "count": 29
+        },
+        "2020": {
+            "skills": {
+                "Perl": 20.0,
+                "C++": 20.0,
+                "Angular": 20.0,
+                "Java": 20.0,
+                "AWS": 20.0
+            },
+            "count": 33
+        },
+        "2021": {
+            "skills": {
+                "Node.js": 3.7,
+                "ASP": 3.7,
+                "Python": 7.41,
+                "MySQL": 3.7,
+                "Flask": 14.81,
+                "C++": 3.7,
+                "PyCharm": 3.7,
+                "Java": 3.7,
+                "React Native": 3.7
+            },
+            "count": 42
+        },
+        "2022": {
+            "skills": {
+                "PostgreSQL": 1.85,
+                "Android": 7.41,
+                "NLP": 1.85,
+                "AWS": 1.85,
+                "Java": 9.26,
+                "Python": 5.56,
+                "C++": 1.85
+            },
+            "count": 38
+        },
+        "2023": {
+            "skills": {
+                "Python": 13.64,
+                "JavaScript": 4.55,
+                "Java": 9.09,
+                "Flask": 9.09,
+                "VMware": 4.55,
+                "Azure": 4.55,
+                "SAP": 4.55,
+                "React Native": 4.55
+            },
+            "count": 28
+        },
+        "2024": {
+            "skills": {
+                "Python": 12.5,
+                "Ruby": 12.5,
+                "React Native": 12.5,
+                "React.js": 12.5,
+                "C#": 12.5,
+                "Flask": 12.5,
+                "HTML5": 12.5,
+                "MySQL": 12.5
+            },
+            "count": 32
+        }
+    },
+    "TCS": {
+        "2004": {
+            "skills": {
+                "Java": 4.51,
+                "Flask": 3.76,
+                "PyCharm": 2.26,
+                "Artificial Intelligence": 0.75,
+                "React Native": 2.26,
+                "Python": 3.01,
+                "Angular": 1.5,
+                "Ruby": 0.75,
+                "Microsoft Excel": 0.75,
+                "C++": 3.01,
+                "Salesforce": 0.75,
+                "VMware": 0.75,
+                "MongoDB": 0.75,
+                "AJAX": 0.75,
+                "Android": 2.26,
+                "Springboot": 0.75,
+                "PHP": 0.75
+            },
+            "count": 135
+        },
+        "2005": {
+            "skills": {
+                "Flask": 2.21,
+                "Java": 2.84,
+                "Azure": 0.32,
+                "Python": 2.21,
+                "JavaScript": 0.32,
+                "Android": 3.15,
+                "React Native": 1.26,
+                "Figma": 0.32,
+                "Springboot": 0.63,
+                "Vue.js": 0.32,
+                "Angular": 0.32,
+                "SAP": 0.32,
+                "C++": 0.95,
+                "AWS": 0.32,
+                "Ruby": 0.32,
+                "C#": 0.32
+            },
+            "count": 247
+        },
+        "2006": {
+            "skills": {
+                "Microsoft Excel": 0.41,
+                "Android": 4.07,
+                "HTML-CSS": 0.41,
+                "MySQL": 0.41,
+                "Java": 3.25,
+                "Angular": 0.81,
+                "AWS": 1.22,
+                "Vue.js": 0.81,
+                "Flask": 1.63,
+                "Python": 1.63,
+                "SAP": 0.41,
+                "Springboot": 0.81,
+                "C#": 1.22,
+                "JavaScript": 0.81,
+                "HTML5": 0.41,
+                "Azure": 0.41,
+                "React Native": 1.22,
+                "ASP.NET": 0.41
+            },
+            "count": 199
+        },
+        "2007": {
+            "skills": {
+                "Flask": 2.38,
+                "Python": 6.35,
+                "Perl": 0.79,
+                "Excel": 0.79,
+                "Java": 3.97,
+                "React Native": 1.59,
+                "C++": 0.79,
+                "Angular": 2.38,
+                "PyCharm": 0.79,
+                "MongoDB": 0.79,
+                "MySQL": 0.79,
+                "Ruby": 0.79,
+                "SAP": 1.59,
+                "Node.js": 0.79,
+                "C#": 0.79,
+                "React.js": 0.79,
+                "Android": 0.79
+            },
+            "count": 193
+        },
+        "2008": {
+            "skills": {
+                "Android": 6.77,
+                "Java": 3.76,
+                "Python": 1.5,
+                "Flask": 2.26,
+                "SQL": 0.75,
+                "MySQL": 1.5,
+                "React Native": 1.5,
+                "Azure": 0.75,
+                "Node.js": 0.75,
+                "PHP": 0.75,
+                "C#": 0.75,
+                "Oracle E-Business Suite": 0.75
+            },
+            "count": 242
+        },
+        "2009": {
+            "skills": {
+                "React Native": 2.99,
+                "Python": 1.71,
+                "React.js": 0.43,
+                "Android": 2.99,
+                "Java": 2.14,
+                "Flask": 3.42,
+                "C++": 0.85,
+                "AWS": 0.43,
+                "Perl": 0.85,
+                "Ruby": 0.43,
+                "Springboot": 0.43,
+                "MySQL": 0.43,
+                "PyCharm": 1.28,
+                "C#": 0.85,
+                "HTML5": 0.43,
+                "JavaScript": 0.43,
+                "AJAX": 0.43,
+                "ASP": 0.43,
+                "PHP": 0.43
+            },
+            "count": 270
+        },
+        "2010": {
+            "skills": {
+                "Python": 3.8,
+                "React Native": 5.06,
+                "Java": 6.33,
+                "C#": 3.8,
+                "ASP": 1.27,
+                "Ruby": 2.53,
+                "JavaScript": 1.27,
+                "Flask": 3.8,
+                "C++": 1.27,
+                "PHP": 1.27,
+                "SAP": 1.27,
+                "Android": 1.27,
+                "Angular": 1.27
+            },
+            "count": 205
+        },
+        "2011": {
+            "skills": {
+                "Python": 3.21,
+                "Android": 3.21,
+                "SQL": 0.46,
+                "React Native": 3.21,
+                "Java": 1.83,
+                "C#": 1.38,
+                "C++": 0.46,
+                "Flask": 2.75,
+                "Vue.js": 0.46,
+                "MySQL": 0.46,
+                "AWS": 0.46,
+                "JavaScript": 0.92,
+                "PHP": 0.46
+            },
+            "count": 236
+        },
+        "2012": {
+            "skills": {
+                "Oracle E-Business Suite": 0.32,
+                "Azure": 0.64,
+                "React Native": 2.56,
+                "Java": 3.19,
+                "AWS": 0.32,
+                "Android": 0.96,
+                "Flask": 2.56,
+                "SAP": 0.64,
+                "Angular": 0.32,
+                "PHP": 0.32,
+                "MySQL": 0.64,
+                "Ruby": 0.32,
+                "C#": 0.96,
+                "Python": 1.92,
+                "C++": 0.64,
+                "ASP": 0.32,
+                "Adobe": 0.32,
+                "React.js": 0.32,
+                "PyCharm": 0.32,
+                "Node.js": 0.32,
+                "AJAX": 0.32,
+                "Salesforce": 0.32,
+                "Git": 0.32,
+                "JavaScript": 0.32,
+                "ASP.NET": 0.32
+            },
+            "count": 212
+        },
+        "2013": {
+            "skills": {
+                "HTML-CSS": 0.75,
+                "AWS": 3.01,
+                "Java": 3.76,
+                "C++": 1.5,
+                "R": 0.75,
+                "Springboot": 0.75,
+                "Android": 3.76,
+                "Flask": 4.51,
+                "C#": 1.5,
+                "React Native": 1.5,
+                "Angular": 0.75,
+                "React.js": 0.75,
+                "Python": 2.26,
+                "JavaScript": 1.5,
+                "ASP.NET": 0.75
+            },
+            "count": 157
+        },
+        "2014": {
+            "skills": {
+                "Java": 3.73,
+                "VMware": 1.86,
+                "Python": 4.35,
+                "Android": 3.73,
+                "PostgreSQL": 1.86,
+                "Flask": 1.86,
+                "JavaScript": 0.62,
+                "React.js": 0.62,
+                "Angular": 1.24,
+                "MySQL": 0.62,
+                "C#": 0.62,
+                "React Native": 0.62,
+                "AWS": 0.62,
+                "HTML-CSS": 0.62,
+                "Ruby": 0.62,
+                "PHP": 0.62
+            },
+            "count": 215
+        },
+        "2015": {
+            "skills": {
+                "ASP.NET": 0.44,
+                "Android": 1.75,
+                "Java": 3.93,
+                "Python": 3.49,
+                "React Native": 2.18,
+                "Flask": 1.75,
+                "Ruby": 0.87,
+                "Vue.js": 0.44,
+                "AWS": 0.44,
+                "JavaScript": 0.87,
+                "Oracle E-Business Suite": 0.44,
+                "Git": 0.44,
+                "Azure": 0.44,
+                "PyCharm": 0.87,
+                "HTML-CSS": 0.44,
+                "React.js": 0.87,
+                "C#": 0.44,
+                "CSS3": 0.44,
+                "C++": 0.44,
+                "ASP": 0.44
+            },
+            "count": 251
+        },
+        "2016": {
+            "skills": {
+                "Flask": 3.28,
+                "Android": 5.74,
+                "Python": 3.28,
+                "Java": 3.28,
+                "React Native": 2.46,
+                "Microsoft Excel": 0.82,
+                "Angular": 2.46,
+                "Azure": 0.82,
+                "AWS": 0.82,
+                "React.js": 0.82,
+                "JavaScript": 0.82,
+                "Ruby": 0.82,
+                "C#": 0.82
+            },
+            "count": 213
+        },
+        "2017": {
+            "skills": {
+                "Java": 4.49,
+                "Ruby": 0.56,
+                "Flask": 4.49,
+                "C++": 1.69,
+                "VMware": 1.12,
+                "JavaScript": 0.56,
+                "Android": 1.69,
+                "MySQL": 0.56,
+                "React.js": 0.56,
+                "React Native": 1.12,
+                "Python": 2.25,
+                "NLP": 0.56,
+                "HTML5": 0.56,
+                "Node.js": 0.56,
+                "PHP": 0.56
+            },
+            "count": 224
+        },
+        "2018": {
+            "skills": {
+                "React Native": 1.98,
+                "Android": 2.2,
+                "Flask": 1.32,
+                "AJAX": 0.22,
+                "C#": 0.22,
+                "Python": 2.2,
+                "Java": 2.2,
+                "CSS3": 0.44,
+                "PHP": 0.22,
+                "Springboot": 0.44,
+                "React.js": 0.22,
+                "PyCharm": 0.22,
+                "C++": 0.88,
+                "Angular": 0.44,
+                "Microsoft Excel": 0.22,
+                "Git": 0.22,
+                "Excel": 0.22,
+                "NLP": 0.22
+            },
+            "count": 225
+        },
+        "2019": {
+            "skills": {
+                "Azure": 2.5,
+                "JavaScript": 0.83,
+                "Flask": 4.17,
+                "HTML-CSS": 0.83,
+                "Android": 4.17,
+                "Java": 4.17,
+                "AWS": 0.83,
+                "MySQL": 1.67,
+                "VMware": 1.67,
+                "PyCharm": 0.83,
+                "Python": 3.33,
+                "Angular": 0.83,
+                "MongoDB": 0.83,
+                "C++": 0.83,
+                "PHP": 0.83,
+                "React Native": 1.67
+            },
+            "count": 104
+        },
+        "2020": {
+            "skills": {
+                "Flask": 1.04,
+                "C++": 1.04,
+                "React Native": 4.17,
+                "MySQL": 0.52,
+                "Java": 2.08,
+                "Python": 3.65,
+                "Oracle E-Business Suite": 0.52,
+                "Springboot": 0.52,
+                "VMware": 1.04,
+                "Angular": 1.56,
+                "Android": 2.6,
+                "Ruby": 0.52,
+                "Adobe": 0.52,
+                "PHP": 1.04,
+                "C#": 1.04,
+                "R": 0.52,
+                "JavaScript": 0.52,
+                "Azure": 0.52,
+                "PyCharm": 0.52
+            },
+            "count": 222
+        },
+        "2021": {
+            "skills": {
+                "Python": 1.85,
+                "C#": 0.92,
+                "Java": 2.15,
+                "Android": 1.23,
+                "Flask": 3.08,
+                "Oracle E-Business Suite": 0.31,
+                "Salesforce": 0.62,
+                "NLP": 0.62,
+                "SQL": 0.31,
+                "CSS3": 0.62,
+                "PHP": 0.62,
+                "React Native": 2.15,
+                "C++": 1.54,
+                "AWS": 0.62,
+                "MySQL": 0.92,
+                "Excel": 0.62,
+                "Azure": 0.31,
+                "Springboot": 0.31,
+                "SAP": 0.31,
+                "Ruby": 0.31,
+                "HTML-CSS": 0.31,
+                "PostgreSQL": 0.31
+            },
+            "count": 259
+        },
+        "2022": {
+            "skills": {
+                "Android": 2.44,
+                "Python": 1.95,
+                "Flask": 2.93,
+                "Oracle E-Business Suite": 0.49,
+                "React Native": 1.95,
+                "C#": 1.95,
+                "SAP": 0.98,
+                "PyCharm": 0.49,
+                "Java": 4.39,
+                "MySQL": 0.49,
+                "Springboot": 0.49,
+                "Angular": 0.98,
+                "C++": 0.49,
+                "Vue.js": 0.49,
+                "MongoDB": 0.49
+            },
+            "count": 187
+        },
+        "2023": {
+            "skills": {
+                "Node.js": 0.32,
+                "Android": 1.92,
+                "Flask": 3.21,
+                "C++": 1.6,
+                "Angular": 0.32,
+                "React Native": 2.24,
+                "PyCharm": 0.64,
+                "Python": 2.56,
+                "Oracle E-Business Suite": 0.32,
+                "Ruby": 0.32,
+                "PHP": 0.96,
+                "Springboot": 0.32,
+                "Vue.js": 0.32,
+                "Java": 0.96,
+                "SQL": 0.32,
+                "MySQL": 0.64,
+                "NLP": 0.32,
+                "AJAX": 0.32,
+                "R": 0.32,
+                "Excel": 0.32,
+                "PostgreSQL": 0.32
+            },
+            "count": 188
+        },
+        "2024": {
+            "skills": {
+                "C#": 1.27,
+                "Python": 5.06,
+                "React Native": 6.33,
+                "Android": 3.8,
+                "Ruby": 1.27,
+                "ASP": 1.27,
+                "C++": 3.8,
+                "AWS": 1.27,
+                "Java": 2.53,
+                "Flask": 3.8,
+                "MySQL": 1.27,
+                "PostgreSQL": 1.27,
+                "HTML5": 1.27
+            },
+            "count": 174
+        }
+    },
+    "Cisco Systems": {
+        "2004": {
+            "skills": {
+                "React Native": 33.33,
+                "Python": 16.67,
+                "Java": 16.67
+            },
+            "count": 15
+        },
+        "2005": {
+            "skills": {
+                "SQL": 12.5,
+                "Java": 6.25,
+                "Springboot": 6.25,
+                "Flask": 18.75,
+                "Python": 6.25
+            },
+            "count": 12
+        },
+        "2006": {
+            "skills": {
+                "VMware": 4.76,
+                "Angular": 9.52,
+                "Flask": 14.29,
+                "Adobe": 4.76,
+                "NLP": 4.76,
+                "AWS": 4.76,
+                "Python": 4.76,
+                "React Native": 4.76,
+                "React.js": 4.76,
+                "C++": 4.76
+            },
+            "count": 14
+        },
+        "2007": {
+            "skills": {
+                "Python": 16.67,
+                "Salesforce": 16.67,
+                "SAP": 16.67,
+                "Java": 16.67,
+                "React Native": 16.67,
+                "C++": 16.67
+            },
+            "count": 16
+        },
+        "2008": {
+            "skills": {
+                "VMware": 6.25,
+                "Python": 6.25,
+                "React Native": 18.75,
+                "Ruby": 12.5,
+                "CSS3": 6.25
+            },
+            "count": 12
+        },
+        "2009": {
+            "skills": {
+                "Vue.js": 5.0,
+                "Flask": 15.0,
+                "React Native": 10.0,
+                "VMware": 5.0,
+                "Java": 10.0,
+                "Springboot": 5.0
+            },
+            "count": 18
+        },
+        "2010": {
+            "skills": {
+                "Springboot": 4.17,
+                "SAP": 4.17,
+                "HTML-CSS": 4.17,
+                "Flask": 12.5,
+                "React Native": 12.5,
+                "Python": 4.17,
+                "C#": 4.17,
+                "Java": 4.17
+            },
+            "count": 17
+        },
+        "2011": {
+            "skills": {
+                "React Native": 4.76,
+                "CSS3": 4.76,
+                "Java": 9.52,
+                "Adobe": 4.76,
+                "Flask": 9.52,
+                "Android": 14.29,
+                "C#": 4.76
+            },
+            "count": 16
+        },
+        "2012": {
+            "skills": {
+                "Android": 9.52,
+                "Flask": 14.29,
+                "Python": 9.52,
+                "Figma": 4.76,
+                "React Native": 4.76,
+                "Java": 4.76,
+                "C#": 4.76
+            },
+            "count": 17
+        },
+        "2013": {
+            "skills": {
+                "Flask": 13.79,
+                "ASP": 6.9,
+                "Artificial Intelligence": 3.45,
+                "PyCharm": 3.45,
+                "C++": 3.45,
+                "SQL": 3.45,
+                "Java": 6.9,
+                "Salesforce": 3.45
+            },
+            "count": 19
+        },
+        "2014": {
+            "skills": {
+                "Android": 10.81,
+                "C++": 2.7,
+                "Java": 8.11,
+                "Flask": 8.11,
+                "Python": 2.7,
+                "React Native": 2.7
+            },
+            "count": 21
+        },
+        "2015": {
+            "skills": {
+                "Python": 18.18,
+                "Java": 18.18,
+                "Ruby": 9.09,
+                "Flask": 9.09,
+                "SQL": 9.09
+            },
+            "count": 21
+        },
+        "2016": {
+            "skills": {
+                "Java": 33.33,
+                "ASP": 16.67,
+                "Android": 16.67
+            },
+            "count": 14
+        },
+        "2017": {
+            "skills": {
+                "React Native": 4.35,
+                "Java": 4.35,
+                "Salesforce": 4.35,
+                "Flask": 4.35,
+                "Python": 17.39,
+                "Azure": 4.35,
+                "HTML-CSS": 4.35,
+                "NLP": 4.35
+            },
+            "count": 21
+        },
+        "2018": {
+            "skills": {
+                "Java": 3.7,
+                "Oracle E-Business Suite": 3.7,
+                "R": 3.7,
+                "Flask": 11.11,
+                "Android": 11.11,
+                "Python": 7.41,
+                "AWS": 3.7,
+                "SAP": 3.7
+            },
+            "count": 24
+        },
+        "2019": {
+            "skills": {
+                "Python": 15.38,
+                "C#": 7.69,
+                "Java": 15.38,
+                "Flask": 7.69,
+                "Android": 7.69,
+                "React Native": 7.69,
+                "SAP": 7.69
+            },
+            "count": 17
+        },
+        "2020": {
+            "skills": {
+                "React Native": 22.22,
+                "ASP.NET": 11.11,
+                "Oracle E-Business Suite": 11.11,
+                "PHP": 11.11,
+                "Java": 11.11,
+                "C++": 11.11
+            },
+            "count": 13
+        },
+        "2021": {
+            "skills": {
+                "Android": 16.67,
+                "Angular": 8.33,
+                "Flask": 16.67,
+                "React Native": 8.33,
+                "Java": 8.33,
+                "Adobe": 8.33
+            },
+            "count": 18
+        },
+        "2022": {
+            "skills": {
+                "ASP.NET": 33.33,
+                "AWS": 33.33,
+                "Android": 33.33
+            },
+            "count": 18
+        },
+        "2023": {
+            "skills": {
+                "Figma": 7.14,
+                "React Native": 7.14,
+                "Springboot": 7.14,
+                "Java": 7.14,
+                "Android": 14.29,
+                "Python": 7.14,
+                "Flask": 14.29,
+                "Oracle E-Business Suite": 7.14
+            },
+            "count": 13
+        },
+        "2024": {
+            "skills": {
+                "PyCharm": 7.69,
+                "Flask": 15.38,
+                "Python": 15.38,
+                "Java": 15.38
+            },
+            "count": 15
+        }
+    },
+    "Codingmart": {
+        "2004": {
+            "skills": {
+                "Android": 23.08,
+                "Java": 15.38
+            },
+            "count": 10
+        },
+        "2005": {
+            "skills": {
+                "React Native": 25.0,
+                "JavaScript": 8.33,
+                "Springboot": 8.33,
+                "Java": 8.33
+            },
+            "count": 9
+        },
+        "2006": {
+            "skills": {
+                "Python": 21.43,
+                "JavaScript": 7.14,
+                "Flask": 14.29
+            },
+            "count": 8
+        },
+        "2007": {
+            "skills": {
+                "Android": 14.29,
+                "Excel": 14.29,
+                "VMware": 14.29,
+                "JavaScript": 14.29,
+                "ASP.NET": 14.29,
+                "Python": 14.29,
+                "AWS": 14.29
+            },
+            "count": 8
+        },
+        "2008": {
+            "skills": {
+                "React.js": 14.29,
+                "VMware": 14.29,
+                "React Native": 14.29,
+                "Python": 28.57
+            },
+            "count": 7
+        },
+        "2009": {
+            "skills": {
+                "React Native": 30.0,
+                "Java": 10.0
+            },
+            "count": 9
+        },
+        "2010": {
+            "skills": {
+                "Java": 14.29,
+                "React Native": 14.29,
+                "Android": 14.29,
+                "Springboot": 14.29,
+                "Python": 14.29,
+                "Figma": 14.29,
+                "SAP": 14.29
+            },
+            "count": 9
+        },
+        "2011": {
+            "skills": {
+                "Flask": 12.5,
+                "Python": 4.17,
+                "Android": 12.5,
+                "JavaScript": 4.17,
+                "Java": 8.33
+            },
+            "count": 9
+        },
+        "2012": {
+            "skills": {
+                "Java": 22.22,
+                "Git": 11.11,
+                "C++": 11.11,
+                "Azure": 11.11,
+                "Python": 11.11,
+                "PyCharm": 11.11
+            },
+            "count": 10
+        },
+        "2013": {
+            "skills": {
+                "HTML5": 100.0
+            },
+            "count": 4
+        },
+        "2014": {
+            "skills": {
+                "React Native": 22.22,
+                "Android": 11.11,
+                "Java": 11.11,
+                "MySQL": 11.11,
+                "Python": 11.11,
+                "PyCharm": 11.11
+            },
+            "count": 9
+        },
+        "2015": {
+            "skills": {
+                "Android": 18.18,
+                "C#": 9.09,
+                "React Native": 18.18,
+                "Vue.js": 9.09,
+                "Java": 9.09
+            },
+            "count": 11
+        },
+        "2016": {
+            "skills": {
+                "Java": 12.5,
+                "React Native": 12.5,
+                "Python": 25.0,
+                "Oracle E-Business Suite": 12.5,
+                "Android": 12.5
+            },
+            "count": 9
+        },
+        "2017": {
+            "skills": {
+                "CSS3": 25.0,
+                "PostgreSQL": 25.0,
+                "SQL": 25.0,
+                "Flask": 25.0
+            },
+            "count": 9
+        },
+        "2018": {
+            "skills": {
+                "SAP": 25.0,
+                "Android": 25.0,
+                "PHP": 25.0,
+                "Java": 25.0
+            },
+            "count": 9
+        },
+        "2019": {
+            "skills": {
+                "HTML-CSS": 25.0,
+                "Android": 25.0,
+                "Flask": 25.0,
+                "Git": 25.0
+            },
+            "count": 10
+        },
+        "2020": {
+            "skills": {
+                "Python": 16.67,
+                "Java": 16.67,
+                "ASP": 16.67,
+                "MySQL": 16.67,
+                "Flask": 16.67,
+                "C++": 16.67
+            },
+            "count": 10
+        },
+        "2021": {
+            "skills": {
+                "Oracle E-Business Suite": 16.67,
+                "Java": 33.33,
+                "Python": 16.67
+            },
+            "count": 10
+        },
+        "2022": {
+            "skills": {
+                "Flask": 18.75,
+                "C#": 12.5,
+                "CSS3": 6.25,
+                "React Native": 6.25,
+                "SQL": 6.25
+            },
+            "count": 10
+        },
+        "2023": {
+            "skills": {
+                "Android": 16.67,
+                "SAP": 16.67,
+                "Java": 16.67,
+                "Python": 16.67,
+                "Flask": 16.67,
+                "NLP": 16.67
+            },
+            "count": 10
+        },
+        "2024": {
+            "skills": {
+                "Android": 50.0,
+                "Java": 50.0
+            },
+            "count": 7
+        }
+    },
+    "Microsoft": {
+        "2005": {
+            "skills": {
+                "Angular": 100.0
+            },
+            "count": 2
+        },
+        "2006": {
+            "skills": {
+                "Flask": 100.0
+            },
+            "count": 2
+        },
+        "2007": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 2
+        },
+        "2008": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 2
+        },
+        "2009": {
+            "skills": {
+                "PHP": 50.0,
+                "Ruby": 50.0
+            },
+            "count": 2
+        },
+        "2010": {
+            "skills": {
+                "SAP": 33.33,
+                "Flask": 33.33,
+                "Microsoft Excel": 33.33
+            },
+            "count": 2
+        },
+        "2011": {
+            "skills": {
+                "Angular": 33.33,
+                "Ruby": 33.33,
+                "Python": 33.33
+            },
+            "count": 3
+        },
+        "2012": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 3
+        },
+        "2013": {
+            "skills": {
+                "Java": 33.33,
+                "Android": 33.33,
+                "React Native": 33.33
+            },
+            "count": 2
+        },
+        "2014": {
+            "skills": {
+                "Ruby": 33.33,
+                "Flask": 33.33,
+                "Springboot": 33.33
+            },
+            "count": 2
+        },
+        "2015": {
+            "skills": {
+                "MySQL": 25.0,
+                "C++": 25.0,
+                "C#": 25.0,
+                "Flask": 25.0
+            },
+            "count": 3
+        },
+        "2016": {
+            "skills": {
+                "Android": 100.0
+            },
+            "count": 3
+        },
+        "2017": {
+            "skills": {
+                "Android": 25.0,
+                "AWS": 25.0,
+                "Java": 25.0,
+                "JavaScript": 25.0
+            },
+            "count": 2
+        },
+        "2018": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 3
+        },
+        "2020": {
+            "skills": {
+                "C#": 50.0,
+                "Java": 50.0
+            },
+            "count": 2
+        },
+        "2021": {
+            "skills": {
+                "C#": 33.33,
+                "Java": 33.33,
+                "Flask": 33.33
+            },
+            "count": 2
+        },
+        "2022": {
+            "skills": {
+                "Flask": 25.0,
+                "MySQL": 25.0,
+                "Java": 25.0,
+                "PyCharm": 25.0
+            },
+            "count": 2
+        },
+        "2023": {
+            "skills": {
+                "Microsoft Excel": 16.67,
+                "C++": 16.67,
+                "Java": 16.67,
+                "Android": 16.67,
+                "React Native": 16.67,
+                "MySQL": 16.67
+            },
+            "count": 3
+        }
+    },
+    "Hexaware": {
+        "2004": {
+            "skills": {
+                "Java": 6.15,
+                "Excel": 0.51,
+                "C++": 1.03,
+                "Python": 1.54,
+                "Perl": 0.51,
+                "Springboot": 0.51,
+                "Android": 0.51,
+                "Flask": 2.05,
+                "React Native": 1.03,
+                "Ruby": 1.54,
+                "Angular": 0.51,
+                "PHP": 0.51,
+                "HTML5": 0.51,
+                "C#": 0.51,
+                "ASP": 0.51
+            },
+            "count": 207
+        },
+        "2005": {
+            "skills": {
+                "React Native": 4.43,
+                "C++": 0.99,
+                "Python": 3.45,
+                "Java": 2.46,
+                "SAP": 0.49,
+                "JavaScript": 0.99,
+                "Angular": 0.49,
+                "PHP": 0.49,
+                "Vue.js": 0.49,
+                "AWS": 0.49,
+                "Salesforce": 0.49,
+                "Ruby": 0.49,
+                "Figma": 0.49,
+                "Android": 1.97,
+                "VMware": 0.49,
+                "ASP.NET": 0.99,
+                "Azure": 0.99,
+                "C#": 0.49,
+                "NLP": 0.49,
+                "Flask": 0.99,
+                "Node.js": 0.49
+            },
+            "count": 239
+        },
+        "2006": {
+            "skills": {
+                "React Native": 1.68,
+                "Python": 2.79,
+                "MySQL": 0.56,
+                "SAP": 0.56,
+                "Ruby": 0.56,
+                "Java": 3.35,
+                "PostgreSQL": 0.28,
+                "Android": 1.4,
+                "C++": 0.56,
+                "ASP.NET": 0.56,
+                "Azure": 0.84,
+                "Vue.js": 0.28,
+                "Flask": 1.12,
+                "Angular": 0.28,
+                "C#": 0.56,
+                "SQL": 0.28
+            },
+            "count": 236
+        },
+        "2007": {
+            "skills": {
+                "Flask": 4.08,
+                "PyCharm": 1.02,
+                "React Native": 3.06,
+                "SAP": 3.06,
+                "MongoDB": 1.02,
+                "Perl": 1.02,
+                "Python": 4.08,
+                "Vue.js": 1.02,
+                "C#": 2.04,
+                "Java": 4.08,
+                "PHP": 3.06,
+                "React.js": 2.04,
+                "Android": 3.06,
+                "Artificial Intelligence": 1.02,
+                "NLP": 1.02
+            },
+            "count": 82
+        },
+        "2008": {
+            "skills": {
+                "C++": 0.69,
+                "AWS": 0.69,
+                "React Native": 4.83,
+                "Java": 4.14,
+                "Flask": 2.76,
+                "SAP": 0.69,
+                "Excel": 0.69,
+                "Android": 2.07,
+                "MySQL": 2.07,
+                "JavaScript": 0.69,
+                "Python": 2.07,
+                "ASP": 0.69,
+                "C#": 2.07,
+                "MongoDB": 0.69,
+                "PyCharm": 0.69
+            },
+            "count": 285
+        },
+        "2009": {
+            "skills": {
+                "React Native": 2.13,
+                "C++": 0.24,
+                "Android": 2.37,
+                "Java": 1.42,
+                "Python": 2.13,
+                "C#": 0.95,
+                "Flask": 1.9,
+                "Artificial Intelligence": 0.47,
+                "AWS": 0.24,
+                "ASP": 0.24,
+                "NLP": 0.24,
+                "VMware": 0.24,
+                "Angular": 0.47,
+                "MongoDB": 0.47,
+                "MySQL": 0.71,
+                "Vue.js": 0.47,
+                "Springboot": 0.71,
+                "PyCharm": 0.47,
+                "JavaScript": 0.24
+            },
+            "count": 298
+        },
+        "2010": {
+            "skills": {
+                "PostgreSQL": 0.7,
+                "React Native": 2.8,
+                "Android": 2.8,
+                "Node.js": 0.7,
+                "Java": 3.5,
+                "Ruby": 2.8,
+                "Springboot": 1.4,
+                "C++": 1.4,
+                "Flask": 3.5,
+                "Python": 3.5,
+                "SAP": 0.7,
+                "Salesforce": 0.7,
+                "Vue.js": 1.4,
+                "Artificial Intelligence": 0.7,
+                "Oracle E-Business Suite": 0.7,
+                "Excel": 0.7,
+                "ASP.NET": 0.7
+            },
+            "count": 181
+        },
+        "2011": {
+            "skills": {
+                "Python": 4.35,
+                "Java": 5.07,
+                "Adobe": 0.72,
+                "VMware": 0.72,
+                "Android": 2.17,
+                "Flask": 2.9,
+                "React Native": 2.9,
+                "React.js": 0.72,
+                "Angular": 0.72,
+                "Git": 0.72,
+                "ASP": 0.72,
+                "Vue.js": 0.72,
+                "MySQL": 0.72,
+                "Springboot": 0.72,
+                "PHP": 0.72,
+                "R": 0.72,
+                "C++": 0.72
+            },
+            "count": 271
+        },
+        "2012": {
+            "skills": {
+                "Android": 2.71,
+                "C++": 2.03,
+                "C#": 1.36,
+                "Ruby": 0.34,
+                "Python": 1.02,
+                "Flask": 2.03,
+                "JavaScript": 0.34,
+                "Vue.js": 0.68,
+                "Java": 2.37,
+                "Perl": 0.34,
+                "React.js": 0.34,
+                "React Native": 2.71,
+                "Figma": 0.34,
+                "HTML-CSS": 0.68,
+                "Salesforce": 0.34,
+                "Springboot": 0.68,
+                "Microsoft Excel": 0.34,
+                "PostgreSQL": 0.34,
+                "Angular": 0.34
+            },
+            "count": 290
+        },
+        "2013": {
+            "skills": {
+                "React Native": 4.38,
+                "Python": 3.65,
+                "AWS": 0.73,
+                "PyCharm": 0.73,
+                "Java": 4.38,
+                "Artificial Intelligence": 0.73,
+                "Android": 2.92,
+                "JavaScript": 1.46,
+                "Azure": 0.73,
+                "Salesforce": 0.73,
+                "Flask": 2.19,
+                "PHP": 0.73,
+                "React.js": 0.73,
+                "HTML-CSS": 0.73,
+                "ASP": 0.73,
+                "Ruby": 0.73,
+                "C#": 0.73
+            },
+            "count": 196
+        },
+        "2014": {
+            "skills": {
+                "MySQL": 1.92,
+                "Flask": 4.49,
+                "C++": 0.64,
+                "HTML-CSS": 0.64,
+                "React Native": 1.92,
+                "Python": 2.56,
+                "Node.js": 0.64,
+                "Springboot": 1.28,
+                "Vue.js": 1.28,
+                "Figma": 0.64,
+                "Java": 4.49,
+                "Android": 1.28,
+                "Oracle E-Business Suite": 0.64,
+                "Angular": 0.64,
+                "AWS": 1.28,
+                "C#": 0.64,
+                "JavaScript": 0.64
+            },
+            "count": 292
+        },
+        "2015": {
+            "skills": {
+                "Java": 2.76,
+                "Python": 1.75,
+                "PyCharm": 0.75,
+                "Flask": 1.5,
+                "Android": 2.51,
+                "Azure": 0.5,
+                "React Native": 2.01,
+                "Ruby": 0.25,
+                "Microsoft Excel": 0.25,
+                "Springboot": 0.25,
+                "Excel": 0.25,
+                "C#": 0.5,
+                "C++": 0.25,
+                "Angular": 0.5,
+                "SAP": 0.25,
+                "VMware": 0.25,
+                "NLP": 0.25
+            },
+            "count": 303
+        },
+        "2016": {
+            "skills": {
+                "JavaScript": 0.36,
+                "Python": 3.62,
+                "Springboot": 0.36,
+                "Flask": 1.45,
+                "C++": 1.45,
+                "Adobe": 0.36,
+                "React Native": 1.09,
+                "Android": 1.81,
+                "Angular": 0.72,
+                "Java": 3.62,
+                "ASP.NET": 0.36,
+                "HTML-CSS": 0.36,
+                "Ruby": 0.36
+            },
+            "count": 210
+        },
+        "2017": {
+            "skills": {
+                "AWS": 0.39,
+                "Flask": 3.1,
+                "Excel": 0.39,
+                "React Native": 3.49,
+                "Python": 2.71,
+                "MySQL": 0.78,
+                "Android": 1.94,
+                "PHP": 0.78,
+                "C++": 0.78,
+                "PyCharm": 0.39,
+                "VMware": 0.78,
+                "Java": 1.55,
+                "Springboot": 0.39,
+                "C#": 0.39,
+                "SQL": 0.39,
+                "Ruby": 0.39
+            },
+            "count": 239
+        },
+        "2018": {
+            "skills": {
+                "AWS": 2.03,
+                "Git": 0.51,
+                "Flask": 1.52,
+                "MySQL": 0.51,
+                "C++": 1.52,
+                "Java": 4.57,
+                "Python": 3.55,
+                "C#": 0.51,
+                "Android": 2.03,
+                "React Native": 1.52,
+                "SAP": 0.51,
+                "ASP": 0.51,
+                "React.js": 0.51,
+                "VMware": 0.51,
+                "PHP": 0.51
+            },
+            "count": 230
+        },
+        "2019": {
+            "skills": {
+                "Flask": 1.63,
+                "Python": 3.8,
+                "MySQL": 0.54,
+                "React.js": 0.54,
+                "C++": 1.09,
+                "ASP.NET": 1.09,
+                "React Native": 3.8,
+                "Android": 3.8,
+                "C#": 1.09,
+                "Git": 0.54,
+                "Vue.js": 1.09,
+                "Ruby": 0.54,
+                "Java": 1.09,
+                "SQL": 0.54,
+                "MongoDB": 0.54,
+                "Springboot": 0.54,
+                "Angular": 0.54
+            },
+            "count": 186
+        },
+        "2020": {
+            "skills": {
+                "Git": 0.38,
+                "Python": 3.02,
+                "Flask": 3.77,
+                "PyCharm": 0.38,
+                "React Native": 2.26,
+                "MySQL": 1.51,
+                "Android": 2.26,
+                "PHP": 0.38,
+                "HTML-CSS": 0.38,
+                "Salesforce": 0.75,
+                "SAP": 0.38,
+                "R": 0.38,
+                "Java": 0.38,
+                "Node.js": 0.38,
+                "Figma": 0.38
+            },
+            "count": 271
+        },
+        "2021": {
+            "skills": {
+                "Android": 2.07,
+                "React.js": 0.23,
+                "Java": 3.23,
+                "PyCharm": 0.23,
+                "Salesforce": 0.23,
+                "Angular": 0.46,
+                "AWS": 1.15,
+                "C++": 0.23,
+                "Flask": 1.61,
+                "Azure": 0.23,
+                "JavaScript": 0.92,
+                "Python": 0.92,
+                "React Native": 0.46,
+                "MySQL": 0.92,
+                "Oracle E-Business Suite": 0.46,
+                "C#": 0.69,
+                "Figma": 0.23,
+                "Springboot": 0.23,
+                "Excel": 0.23,
+                "Artificial Intelligence": 0.23,
+                "SQL": 0.23,
+                "Vue.js": 0.23,
+                "NLP": 0.23,
+                "ASP.NET": 0.23,
+                "VMware": 0.23
+            },
+            "count": 259
+        },
+        "2022": {
+            "skills": {
+                "React Native": 4.13,
+                "Flask": 3.31,
+                "Android": 1.65,
+                "Java": 2.07,
+                "CSS3": 0.41,
+                "Python": 1.65,
+                "C++": 0.83,
+                "Adobe": 0.41,
+                "MySQL": 0.83,
+                "PHP": 0.41,
+                "SQL": 0.41,
+                "AJAX": 0.41,
+                "JavaScript": 0.83,
+                "C#": 0.41,
+                "Springboot": 0.41,
+                "Azure": 0.41,
+                "Ruby": 0.41
+            },
+            "count": 197
+        },
+        "2023": {
+            "skills": {
+                "Java": 2.69,
+                "Python": 2.15,
+                "Android": 2.15,
+                "SAP": 0.27,
+                "C#": 1.34,
+                "JavaScript": 0.27,
+                "Flask": 2.15,
+                "SQL": 0.27,
+                "C++": 0.54,
+                "React Native": 1.61,
+                "Ruby": 0.27,
+                "MySQL": 0.27,
+                "Angular": 0.27,
+                "Figma": 0.27,
+                "NLP": 0.54,
+                "Perl": 0.27,
+                "Vue.js": 0.27,
+                "Salesforce": 0.27,
+                "HTML-CSS": 0.27
+            },
+            "count": 225
+        },
+        "2024": {
+            "skills": {
+                "Android": 6.41,
+                "Angular": 1.28,
+                "C++": 2.56,
+                "Python": 5.13,
+                "Flask": 5.13,
+                "Java": 2.56,
+                "HTML5": 1.28,
+                "Azure": 1.28,
+                "React Native": 3.85,
+                "Ruby": 1.28
+            },
+            "count": 130
+        }
+    },
+    "Infosys": {
+        "2004": {
+            "skills": {
+                "Python": 2.94,
+                "Java": 5.29,
+                "PHP": 0.59,
+                "CSS3": 0.59,
+                "Vue.js": 1.18,
+                "React.js": 1.18,
+                "MySQL": 0.59,
+                "Android": 1.76,
+                "React Native": 2.35,
+                "Angular": 0.59,
+                "C#": 0.59,
+                "Flask": 2.35,
+                "Springboot": 1.18,
+                "Ruby": 0.59,
+                "C++": 1.18,
+                "SAP": 0.59
+            },
+            "count": 207
+        },
+        "2005": {
+            "skills": {
+                "Java": 3.7,
+                "React Native": 1.48,
+                "AWS": 0.74,
+                "JavaScript": 1.48,
+                "C#": 2.22,
+                "MySQL": 0.74,
+                "Flask": 3.7,
+                "Python": 2.22,
+                "Azure": 0.74,
+                "PHP": 0.74,
+                "Android": 5.19,
+                "HTML-CSS": 0.74,
+                "ASP": 0.74,
+                "Ruby": 0.74,
+                "ASP.NET": 0.74,
+                "C++": 0.74,
+                "Artificial Intelligence": 0.74
+            },
+            "count": 228
+        },
+        "2006": {
+            "skills": {
+                "Java": 2.3,
+                "AJAX": 0.46,
+                "Android": 4.15,
+                "MySQL": 0.92,
+                "C#": 0.92,
+                "Flask": 2.3,
+                "Python": 2.3,
+                "Angular": 0.46,
+                "C++": 0.92,
+                "PyCharm": 1.84,
+                "React Native": 1.38,
+                "ASP.NET": 0.46,
+                "SQL": 0.46,
+                "MongoDB": 0.46,
+                "Salesforce": 0.46,
+                "Oracle E-Business Suite": 0.46,
+                "Springboot": 0.46,
+                "AWS": 0.92,
+                "Ruby": 1.38,
+                "VMware": 0.46,
+                "Vue.js": 0.46,
+                "ASP": 0.46
+            },
+            "count": 257
+        },
+        "2007": {
+            "skills": {
+                "Java": 5.15,
+                "C++": 2.06,
+                "React Native": 4.12,
+                "Android": 4.12,
+                "Flask": 3.09,
+                "Python": 4.12,
+                "C#": 2.06,
+                "AWS": 2.06,
+                "MySQL": 1.03,
+                "PostgreSQL": 1.03,
+                "NLP": 1.03
+            },
+            "count": 230
+        },
+        "2008": {
+            "skills": {
+                "VMware": 0.7,
+                "Python": 2.11,
+                "Artificial Intelligence": 1.41,
+                "Oracle E-Business Suite": 0.7,
+                "Springboot": 0.7,
+                "MySQL": 0.7,
+                "Android": 2.11,
+                "JavaScript": 0.7,
+                "C#": 0.7,
+                "PostgreSQL": 0.7,
+                "React Native": 4.23,
+                "Java": 5.63,
+                "Flask": 2.11,
+                "Git": 0.7,
+                "ASP": 0.7,
+                "C++": 0.7,
+                "Angular": 0.7
+            },
+            "count": 279
+        },
+        "2009": {
+            "skills": {
+                "React Native": 1.06,
+                "Android": 1.6,
+                "Python": 2.93,
+                "C++": 1.06,
+                "Java": 2.13,
+                "Ruby": 0.27,
+                "Flask": 2.39,
+                "MySQL": 0.8,
+                "Springboot": 0.8,
+                "PyCharm": 0.8,
+                "Artificial Intelligence": 0.53,
+                "Oracle E-Business Suite": 0.27,
+                "C#": 0.53,
+                "Excel": 0.27,
+                "Angular": 0.27,
+                "JavaScript": 0.27,
+                "AJAX": 0.27,
+                "React.js": 0.27
+            },
+            "count": 278
+        },
+        "2010": {
+            "skills": {
+                "React Native": 3.83,
+                "Flask": 1.44,
+                "MySQL": 0.96,
+                "Python": 1.91,
+                "Oracle E-Business Suite": 0.96,
+                "Android": 3.35,
+                "Angular": 0.48,
+                "Java": 3.35,
+                "PHP": 0.48,
+                "Ruby": 0.96,
+                "HTML-CSS": 0.48,
+                "AWS": 0.48,
+                "C#": 0.48,
+                "JavaScript": 0.48,
+                "Node.js": 0.96
+            },
+            "count": 174
+        },
+        "2011": {
+            "skills": {
+                "Python": 4.61,
+                "Ruby": 1.32,
+                "AWS": 1.32,
+                "React Native": 2.63,
+                "Flask": 2.63,
+                "Java": 3.29,
+                "Angular": 1.32,
+                "JavaScript": 1.32,
+                "Android": 1.97,
+                "MySQL": 1.97,
+                "SAP": 1.32,
+                "ASP.NET": 0.66,
+                "Springboot": 0.66,
+                "C++": 0.66,
+                "PyCharm": 0.66,
+                "PHP": 1.32
+            },
+            "count": 199
+        },
+        "2012": {
+            "skills": {
+                "C#": 0.4,
+                "Java": 4.02,
+                "Excel": 0.4,
+                "AWS": 0.4,
+                "Vue.js": 0.4,
+                "React Native": 2.81,
+                "PostgreSQL": 0.8,
+                "SAP": 0.4,
+                "Python": 0.8,
+                "Flask": 2.81,
+                "JavaScript": 1.2,
+                "R": 0.8,
+                "Android": 1.61,
+                "MySQL": 0.8,
+                "ASP": 0.4,
+                "PHP": 0.4,
+                "Node.js": 0.4,
+                "Springboot": 0.4,
+                "Azure": 0.4
+            },
+            "count": 232
+        },
+        "2013": {
+            "skills": {
+                "React.js": 0.65,
+                "Java": 3.87,
+                "Angular": 0.65,
+                "Springboot": 1.29,
+                "HTML-CSS": 0.65,
+                "Android": 2.58,
+                "Git": 0.65,
+                "Flask": 2.58,
+                "React Native": 3.87,
+                "PHP": 1.94,
+                "AWS": 0.65,
+                "SAP": 1.29,
+                "ASP": 0.65,
+                "Python": 3.23,
+                "MySQL": 0.65,
+                "AJAX": 0.65,
+                "C++": 0.65
+            },
+            "count": 200
+        },
+        "2014": {
+            "skills": {
+                "Flask": 1.34,
+                "Android": 1.34,
+                "Java": 4.36,
+                "R": 0.34,
+                "SAP": 0.67,
+                "React Native": 1.01,
+                "Angular": 0.67,
+                "Python": 2.35,
+                "C++": 1.34,
+                "PHP": 0.67,
+                "ASP": 0.34,
+                "PyCharm": 0.34,
+                "Springboot": 0.67,
+                "Artificial Intelligence": 0.34,
+                "Vue.js": 0.34,
+                "Node.js": 0.34,
+                "PostgreSQL": 0.34
+            },
+            "count": 242
+        },
+        "2015": {
+            "skills": {
+                "Flask": 1.27,
+                "Python": 3.18,
+                "Java": 2.23,
+                "Android": 2.23,
+                "Git": 0.32,
+                "React Native": 2.87,
+                "AWS": 0.64,
+                "C++": 0.64,
+                "Angular": 0.32,
+                "MySQL": 0.64,
+                "Excel": 0.32,
+                "PostgreSQL": 0.32,
+                "PHP": 0.32,
+                "Azure": 0.32,
+                "Perl": 0.32
+            },
+            "count": 190
+        },
+        "2016": {
+            "skills": {
+                "Flask": 2.5,
+                "PyCharm": 1.25,
+                "C++": 1.88,
+                "MySQL": 0.62,
+                "React Native": 1.88,
+                "AWS": 0.62,
+                "ASP": 1.88,
+                "Python": 3.12,
+                "Java": 5.62,
+                "Springboot": 0.62,
+                "SQL": 0.62,
+                "Angular": 0.62,
+                "Ruby": 0.62,
+                "SAP": 0.62
+            },
+            "count": 153
+        },
+        "2017": {
+            "skills": {
+                "Excel": 0.76,
+                "Python": 3.82,
+                "JavaScript": 0.76,
+                "SQL": 0.76,
+                "MySQL": 0.76,
+                "Flask": 2.29,
+                "Java": 4.58,
+                "HTML-CSS": 0.76,
+                "ASP.NET": 1.53,
+                "Azure": 1.53,
+                "Android": 3.05,
+                "VMware": 1.53,
+                "PHP": 0.76,
+                "Ruby": 1.53,
+                "AWS": 0.76,
+                "React Native": 2.29,
+                "C++": 2.29,
+                "PyCharm": 0.76,
+                "Adobe": 0.76,
+                "Springboot": 0.76,
+                "R": 0.76
+            },
+            "count": 213
+        },
+        "2018": {
+            "skills": {
+                "Vue.js": 0.91,
+                "Python": 2.43,
+                "C++": 0.3,
+                "Java": 2.74,
+                "SAP": 0.91,
+                "React Native": 3.04,
+                "Angular": 0.61,
+                "Flask": 0.91,
+                "Android": 1.82,
+                "C#": 0.3,
+                "Microsoft Excel": 0.3,
+                "AJAX": 0.61,
+                "VMware": 0.3,
+                "PHP": 0.61,
+                "Adobe": 0.3,
+                "AWS": 0.3,
+                "PostgreSQL": 0.3,
+                "Git": 0.3,
+                "Azure": 0.3
+            },
+            "count": 250
+        },
+        "2019": {
+            "skills": {
+                "ASP.NET": 0.63,
+                "Python": 3.77,
+                "Java": 2.52,
+                "PyCharm": 0.63,
+                "Flask": 4.4,
+                "Angular": 0.63,
+                "Vue.js": 1.26,
+                "Artificial Intelligence": 1.26,
+                "PostgreSQL": 0.63,
+                "Node.js": 0.63,
+                "HTML-CSS": 0.63,
+                "React Native": 3.77,
+                "Microsoft Excel": 0.63,
+                "Azure": 0.63,
+                "VMware": 0.63,
+                "AWS": 1.26,
+                "Android": 0.63
+            },
+            "count": 179
+        },
+        "2020": {
+            "skills": {
+                "Java": 4.32,
+                "PostgreSQL": 0.72,
+                "Angular": 1.44,
+                "MySQL": 0.72,
+                "Flask": 2.88,
+                "React Native": 3.6,
+                "Android": 2.16,
+                "Python": 4.32,
+                "HTML-CSS": 0.72,
+                "C#": 0.72,
+                "Oracle E-Business Suite": 0.72,
+                "R": 0.72,
+                "ASP.NET": 0.72,
+                "Springboot": 0.72,
+                "JavaScript": 1.44,
+                "C++": 0.72
+            },
+            "count": 229
+        },
+        "2021": {
+            "skills": {
+                "Python": 1.95,
+                "AWS": 0.2,
+                "C++": 0.59,
+                "Java": 2.15,
+                "React Native": 2.15,
+                "MySQL": 0.59,
+                "Flask": 1.95,
+                "Salesforce": 0.2,
+                "Oracle E-Business Suite": 0.2,
+                "Excel": 0.2,
+                "Springboot": 0.2,
+                "Android": 1.17,
+                "React.js": 0.2,
+                "PyCharm": 0.2,
+                "VMware": 0.2,
+                "SAP": 0.2,
+                "PHP": 0.39,
+                "Ruby": 0.2,
+                "ASP.NET": 0.2,
+                "JavaScript": 0.2
+            },
+            "count": 255
+        },
+        "2022": {
+            "skills": {
+                "C#": 0.82,
+                "Flask": 2.46,
+                "React Native": 4.1,
+                "Springboot": 2.46,
+                "MySQL": 1.64,
+                "Android": 3.28,
+                "C++": 1.64,
+                "VMware": 0.82,
+                "ASP.NET": 0.82,
+                "Python": 4.92,
+                "React.js": 0.82,
+                "SQL": 0.82,
+                "Java": 2.46,
+                "Ruby": 0.82,
+                "Git": 0.82,
+                "CSS3": 0.82,
+                "MongoDB": 0.82,
+                "SAP": 0.82
+            },
+            "count": 89
+        },
+        "2023": {
+            "skills": {
+                "Python": 0.7,
+                "Android": 2.11,
+                "Angular": 0.7,
+                "React Native": 3.16,
+                "Flask": 1.4,
+                "Java": 3.86,
+                "AWS": 0.7,
+                "C++": 0.7,
+                "MySQL": 1.05,
+                "Microsoft Excel": 0.35,
+                "PHP": 0.35,
+                "SQL": 0.35,
+                "Figma": 0.35,
+                "Springboot": 0.35,
+                "PostgreSQL": 0.35
+            },
+            "count": 207
+        },
+        "2024": {
+            "skills": {
+                "SAP": 1.47,
+                "ASP.NET": 2.94,
+                "React Native": 5.88,
+                "Python": 5.88,
+                "Perl": 1.47,
+                "PyCharm": 1.47,
+                "Flask": 2.94,
+                "C#": 1.47,
+                "Android": 5.88,
+                "MySQL": 2.94,
+                "Java": 1.47,
+                "AWS": 1.47,
+                "C++": 1.47,
+                "Figma": 1.47
+            },
+            "count": 167
+        }
+    },
+    "Wipro": {
+        "2004": {
+            "skills": {
+                "Angular": 1.18,
+                "SQL": 1.18,
+                "PostgreSQL": 1.18,
+                "C++": 1.18,
+                "Salesforce": 1.18,
+                "Python": 3.53,
+                "Java": 7.06,
+                "Flask": 4.71,
+                "Android": 2.35,
+                "C#": 2.35,
+                "JavaScript": 1.18,
+                "React Native": 2.35,
+                "Ruby": 1.18,
+                "Node.js": 1.18,
+                "AWS": 1.18,
+                "VMware": 1.18,
+                "PHP": 1.18,
+                "Vue.js": 1.18
+            },
+            "count": 84
+        },
+        "2005": {
+            "skills": {
+                "AWS": 1.5,
+                "Flask": 2.26,
+                "Java": 4.51,
+                "Git": 0.75,
+                "Ruby": 0.75,
+                "React Native": 0.75,
+                "Node.js": 0.75,
+                "Python": 4.51,
+                "Android": 4.51,
+                "Excel": 0.75,
+                "C++": 0.75,
+                "PyCharm": 0.75,
+                "JavaScript": 0.75,
+                "PostgreSQL": 0.75,
+                "VMware": 0.75,
+                "ASP.NET": 0.75,
+                "Perl": 0.75
+            },
+            "count": 153
+        },
+        "2006": {
+            "skills": {
+                "Java": 3.35,
+                "SQL": 0.74,
+                "Python": 2.97,
+                "React Native": 2.23,
+                "Android": 2.23,
+                "AWS": 0.37,
+                "Excel": 0.37,
+                "React.js": 0.37,
+                "Springboot": 0.74,
+                "JavaScript": 1.12,
+                "C++": 1.12,
+                "C#": 1.12,
+                "Angular": 0.74,
+                "R": 0.37,
+                "NLP": 0.37,
+                "HTML-CSS": 0.37,
+                "Flask": 0.74,
+                "VMware": 0.37,
+                "MySQL": 0.37,
+                "Ruby": 0.37
+            },
+            "count": 206
+        },
+        "2007": {
+            "skills": {
+                "Java": 7.27,
+                "Flask": 3.64,
+                "PostgreSQL": 1.82,
+                "React Native": 7.27,
+                "MongoDB": 1.82,
+                "Vue.js": 1.82,
+                "Python": 3.64,
+                "C++": 1.82,
+                "Android": 5.45,
+                "Microsoft Excel": 1.82,
+                "ASP.NET": 1.82
+            },
+            "count": 70
+        },
+        "2008": {
+            "skills": {
+                "C#": 2.41,
+                "C++": 2.41,
+                "Java": 4.82,
+                "PHP": 1.2,
+                "Flask": 3.61,
+                "Springboot": 2.41,
+                "PyCharm": 2.41,
+                "MySQL": 2.41,
+                "MongoDB": 1.2,
+                "React Native": 3.61,
+                "VMware": 1.2,
+                "JavaScript": 1.2,
+                "PostgreSQL": 2.41,
+                "Android": 4.82,
+                "Python": 2.41,
+                "Ruby": 1.2
+            },
+            "count": 142
+        },
+        "2009": {
+            "skills": {
+                "Flask": 2.41,
+                "C#": 0.4,
+                "Java": 3.21,
+                "R": 0.4,
+                "React Native": 2.41,
+                "Python": 3.61,
+                "AWS": 1.2,
+                "VMware": 0.4,
+                "PHP": 0.4,
+                "Ruby": 0.4,
+                "Azure": 1.2,
+                "PyCharm": 0.4,
+                "C++": 0.4,
+                "Android": 0.8,
+                "ASP": 0.4,
+                "Node.js": 0.4,
+                "Springboot": 0.4
+            },
+            "count": 251
+        },
+        "2010": {
+            "skills": {
+                "React Native": 4.2,
+                "VMware": 0.84,
+                "SAP": 0.84,
+                "Java": 5.88,
+                "Android": 4.2,
+                "Git": 1.68,
+                "Ruby": 1.68,
+                "C++": 0.84,
+                "HTML-CSS": 0.84,
+                "Flask": 1.68,
+                "Figma": 0.84,
+                "Python": 0.84,
+                "NLP": 0.84,
+                "Excel": 0.84
+            },
+            "count": 119
+        },
+        "2011": {
+            "skills": {
+                "React Native": 3.87,
+                "C#": 1.94,
+                "Node.js": 0.65,
+                "Ruby": 0.65,
+                "Java": 5.16,
+                "MySQL": 1.29,
+                "Python": 1.94,
+                "PyCharm": 0.65,
+                "Android": 2.58,
+                "Flask": 1.94,
+                "ASP.NET": 0.65,
+                "AWS": 0.65,
+                "Angular": 0.65,
+                "C++": 0.65,
+                "HTML-CSS": 0.65
+            },
+            "count": 128
+        },
+        "2012": {
+            "skills": {
+                "HTML5": 1.06,
+                "Java": 4.23,
+                "Angular": 1.06,
+                "Flask": 2.65,
+                "Android": 2.65,
+                "Python": 2.65,
+                "C#": 0.53,
+                "HTML-CSS": 1.59,
+                "PostgreSQL": 0.53,
+                "React Native": 1.59,
+                "Excel": 0.53,
+                "ASP": 0.53,
+                "JavaScript": 1.06,
+                "AWS": 1.06,
+                "ASP.NET": 0.53,
+                "PHP": 0.53,
+                "Vue.js": 0.53,
+                "MySQL": 1.59
+            },
+            "count": 161
+        },
+        "2013": {
+            "skills": {
+                "Android": 0.71,
+                "Git": 0.71,
+                "React Native": 4.29,
+                "Flask": 2.14,
+                "Python": 2.14,
+                "Java": 5.0,
+                "C++": 2.14,
+                "Figma": 1.43,
+                "React.js": 0.71,
+                "Angular": 1.43,
+                "NLP": 0.71,
+                "AWS": 1.43,
+                "Ruby": 0.71,
+                "Springboot": 2.14,
+                "PyCharm": 0.71,
+                "JavaScript": 0.71
+            },
+            "count": 140
+        },
+        "2014": {
+            "skills": {
+                "React Native": 4.64,
+                "C++": 1.32,
+                "JavaScript": 0.66,
+                "Java": 4.64,
+                "PostgreSQL": 0.66,
+                "MySQL": 1.32,
+                "Python": 2.65,
+                "AJAX": 0.66,
+                "NLP": 0.66,
+                "C#": 2.65,
+                "AWS": 0.66,
+                "PyCharm": 0.66,
+                "Android": 0.66,
+                "Angular": 0.66,
+                "Springboot": 0.66,
+                "Flask": 1.32
+            },
+            "count": 147
+        },
+        "2015": {
+            "skills": {
+                "Python": 3.17,
+                "Flask": 1.36,
+                "Java": 4.07,
+                "React Native": 3.17,
+                "JavaScript": 0.9,
+                "HTML-CSS": 0.45,
+                "Azure": 0.9,
+                "PyCharm": 0.45,
+                "Angular": 0.45,
+                "SAP": 0.45,
+                "NLP": 0.9,
+                "Android": 1.36,
+                "C#": 0.9,
+                "Figma": 0.45,
+                "MySQL": 0.45,
+                "Node.js": 0.45,
+                "PHP": 0.45
+            },
+            "count": 166
+        },
+        "2016": {
+            "skills": {
+                "Android": 6.1,
+                "Flask": 4.88,
+                "SAP": 1.22,
+                "VMware": 1.22,
+                "React Native": 2.44,
+                "Python": 4.88,
+                "AWS": 2.44,
+                "Ruby": 1.22,
+                "Java": 3.66,
+                "Node.js": 1.22,
+                "PHP": 1.22,
+                "PyCharm": 1.22,
+                "Figma": 1.22,
+                "R": 1.22
+            },
+            "count": 105
+        },
+        "2017": {
+            "skills": {
+                "Azure": 1.0,
+                "React Native": 4.0,
+                "Flask": 4.0,
+                "PyCharm": 1.0,
+                "Java": 5.0,
+                "Android": 3.0,
+                "SQL": 1.0,
+                "Python": 5.0,
+                "Ruby": 1.0,
+                "Vue.js": 1.0,
+                "Perl": 1.0,
+                "Angular": 1.0,
+                "C++": 1.0,
+                "AWS": 1.0
+            },
+            "count": 165
+        },
+        "2018": {
+            "skills": {
+                "Figma": 0.45,
+                "C#": 0.9,
+                "Android": 3.14,
+                "Python": 2.24,
+                "React Native": 3.14,
+                "Microsoft Excel": 0.45,
+                "Perl": 0.45,
+                "PHP": 0.9,
+                "Java": 1.79,
+                "React.js": 0.45,
+                "C++": 0.9,
+                "Flask": 3.59,
+                "SAP": 0.45,
+                "Ruby": 0.45,
+                "ASP.NET": 0.45,
+                "MySQL": 0.45
+            },
+            "count": 236
+        },
+        "2019": {
+            "skills": {
+                "MySQL": 2.11,
+                "Vue.js": 1.05,
+                "Angular": 1.05,
+                "Java": 4.21,
+                "React Native": 6.32,
+                "Flask": 2.11,
+                "Python": 4.21,
+                "C#": 1.05,
+                "PHP": 1.05,
+                "C++": 2.11,
+                "AWS": 1.05,
+                "Azure": 1.05,
+                "Oracle E-Business Suite": 1.05,
+                "Android": 2.11,
+                "Artificial Intelligence": 1.05,
+                "React.js": 1.05,
+                "PyCharm": 1.05,
+                "CSS3": 1.05
+            },
+            "count": 133
+        },
+        "2020": {
+            "skills": {
+                "SAP": 1.37,
+                "Ruby": 1.37,
+                "Android": 4.11,
+                "PHP": 0.68,
+                "PyCharm": 0.68,
+                "Flask": 2.74,
+                "Perl": 0.68,
+                "AJAX": 1.37,
+                "Python": 3.42,
+                "Angular": 1.37,
+                "Java": 4.11,
+                "React Native": 2.05,
+                "HTML-CSS": 0.68,
+                "JavaScript": 0.68,
+                "Node.js": 0.68,
+                "CSS3": 0.68,
+                "Excel": 0.68
+            },
+            "count": 155
+        },
+        "2021": {
+            "skills": {
+                "Android": 2.02,
+                "React Native": 3.24,
+                "Flask": 1.62,
+                "MySQL": 0.81,
+                "Java": 2.83,
+                "Adobe": 0.4,
+                "Vue.js": 0.4,
+                "Angular": 0.81,
+                "C#": 0.81,
+                "PostgreSQL": 0.4,
+                "AWS": 0.4,
+                "Python": 2.83,
+                "Springboot": 0.4,
+                "ASP.NET": 0.81,
+                "Oracle E-Business Suite": 0.4,
+                "SQL": 0.4,
+                "PHP": 0.81,
+                "Excel": 0.81,
+                "C++": 1.21,
+                "CSS3": 0.4,
+                "SAP": 0.4,
+                "JavaScript": 0.4,
+                "HTML-CSS": 0.4
+            },
+            "count": 185
+        },
+        "2022": {
+            "skills": {
+                "Python": 1.96,
+                "Azure": 0.65,
+                "Flask": 3.92,
+                "Ruby": 1.96,
+                "PHP": 1.96,
+                "Java": 5.88,
+                "Node.js": 0.65,
+                "Salesforce": 0.65,
+                "Excel": 0.65,
+                "C#": 0.65,
+                "C++": 0.65,
+                "PyCharm": 0.65,
+                "Android": 0.65,
+                "React Native": 0.65
+            },
+            "count": 87
+        },
+        "2023": {
+            "skills": {
+                "Microsoft Excel": 0.53,
+                "PyCharm": 1.6,
+                "Java": 2.66,
+                "Figma": 0.53,
+                "Python": 4.26,
+                "MongoDB": 0.53,
+                "C#": 1.06,
+                "Android": 2.66,
+                "React Native": 2.13,
+                "PostgreSQL": 0.53,
+                "Perl": 0.53,
+                "Angular": 0.53,
+                "React.js": 1.06,
+                "MySQL": 1.6,
+                "R": 0.53,
+                "Flask": 2.13,
+                "AWS": 0.53,
+                "C++": 0.53,
+                "HTML5": 1.06,
+                "JavaScript": 0.53,
+                "AJAX": 0.53,
+                "Springboot": 0.53
+            },
+            "count": 108
+        },
+        "2024": {
+            "skills": {
+                "HTML5": 2.33,
+                "C++": 2.33,
+                "React.js": 2.33,
+                "React Native": 9.3,
+                "Java": 4.65,
+                "Android": 4.65,
+                "Angular": 2.33,
+                "Python": 4.65,
+                "Flask": 6.98,
+                "JavaScript": 2.33,
+                "SAP": 2.33
+            },
+            "count": 119
+        }
+    },
+    "Google ": {
+        "2004": {
+            "skills": {
+                "Java": 7.69,
+                "Flask": 15.38,
+                "Angular": 7.69,
+                "Vue.js": 7.69,
+                "Node.js": 7.69,
+                "SAP": 15.38,
+                "Android": 7.69
+            },
+            "count": 12
+        },
+        "2005": {
+            "skills": {
+                "MySQL": 11.11,
+                "Vue.js": 11.11,
+                "C++": 11.11,
+                "PostgreSQL": 11.11,
+                "PHP": 11.11,
+                "Java": 22.22
+            },
+            "count": 11
+        },
+        "2006": {
+            "skills": {
+                "Ruby": 16.67,
+                "SAP": 16.67,
+                "React.js": 16.67,
+                "Java": 16.67,
+                "Flask": 16.67,
+                "React Native": 16.67
+            },
+            "count": 10
+        },
+        "2007": {
+            "skills": {
+                "Flask": 50.0,
+                "Springboot": 50.0
+            },
+            "count": 11
+        },
+        "2008": {
+            "skills": {
+                "JavaScript": 28.57,
+                "HTML-CSS": 14.29,
+                "Android": 14.29,
+                "Python": 14.29
+            },
+            "count": 12
+        },
+        "2009": {
+            "skills": {
+                "VMware": 6.67,
+                "Flask": 20.0,
+                "JavaScript": 6.67,
+                "React.js": 6.67,
+                "PHP": 6.67,
+                "Python": 6.67,
+                "Microsoft Excel": 6.67
+            },
+            "count": 12
+        },
+        "2010": {
+            "skills": {
+                "Python": 25.0,
+                "Android": 25.0,
+                "HTML-CSS": 25.0,
+                "C#": 25.0
+            },
+            "count": 10
+        },
+        "2011": {
+            "skills": {
+                "Android": 16.67,
+                "MySQL": 33.33,
+                "AJAX": 16.67
+            },
+            "count": 11
+        },
+        "2012": {
+            "skills": {
+                "Python": 15.62,
+                "C#": 6.25,
+                "Springboot": 3.12,
+                "Java": 3.12,
+                "Angular": 3.12
+            },
+            "count": 11
+        },
+        "2013": {
+            "skills": {
+                "React Native": 14.29,
+                "Springboot": 14.29,
+                "Python": 28.57,
+                "PHP": 14.29
+            },
+            "count": 5
+        },
+        "2014": {
+            "skills": {
+                "Microsoft Excel": 50.0,
+                "C++": 50.0
+            },
+            "count": 6
+        },
+        "2015": {
+            "skills": {
+                "VMware": 11.11,
+                "Java": 22.22,
+                "MySQL": 11.11,
+                "Python": 11.11,
+                "React Native": 11.11,
+                "Android": 11.11
+            },
+            "count": 7
+        },
+        "2016": {
+            "skills": {
+                "Flask": 28.57,
+                "C#": 14.29,
+                "AWS": 14.29,
+                "Android": 14.29
+            },
+            "count": 6
+        },
+        "2017": {
+            "skills": {
+                "Android": 22.22,
+                "PyCharm": 11.11,
+                "C++": 11.11,
+                "Flask": 11.11,
+                "React Native": 11.11,
+                "SAP": 11.11
+            },
+            "count": 11
+        },
+        "2018": {
+            "skills": {
+                "Python": 14.29,
+                "Android": 5.71,
+                "Flask": 5.71,
+                "Java": 2.86,
+                "Azure": 2.86
+            },
+            "count": 11
+        },
+        "2019": {
+            "skills": {
+                "Python": 50.0,
+                "Java": 50.0
+            },
+            "count": 4
+        },
+        "2020": {
+            "skills": {
+                "Java": 33.33,
+                "C#": 16.67,
+                "MySQL": 16.67
+            },
+            "count": 4
+        },
+        "2021": {
+            "skills": {
+                "Java": 50.0,
+                "C#": 50.0
+            },
+            "count": 5
+        },
+        "2022": {
+            "skills": {
+                "Vue.js": 20.0,
+                "MySQL": 20.0,
+                "PHP": 20.0,
+                "AJAX": 20.0,
+                "JavaScript": 20.0
+            },
+            "count": 7
+        },
+        "2023": {
+            "skills": {
+                "Android": 20.0,
+                "Vue.js": 20.0,
+                "Ruby": 20.0,
+                "CSS3": 20.0,
+                "C#": 20.0
+            },
+            "count": 12
+        },
+        "2024": {
+            "skills": {
+                "Android": 100.0
+            },
+            "count": 12
+        }
+    },
+    "Immovidu Technologies": {
+        "2006": {
+            "skills": {
+                "ASP": 100.0
+            },
+            "count": 1
+        },
+        "2007": {
+            "skills": {
+                "Android": 50.0,
+                "Java": 50.0
+            },
+            "count": 3
+        },
+        "2009": {
+            "skills": {
+                "Python": 20.0,
+                "Oracle E-Business Suite": 20.0,
+                "C++": 20.0,
+                "Android": 20.0,
+                "Flask": 20.0
+            },
+            "count": 5
+        },
+        "2010": {
+            "skills": {
+                "Flask": 100.0
+            },
+            "count": 3
+        },
+        "2011": {
+            "skills": {
+                "Flask": 100.0
+            },
+            "count": 2
+        },
+        "2013": {
+            "skills": {
+                "Android": 100.0
+            },
+            "count": 3
+        },
+        "2014": {
+            "skills": {
+                "PyCharm": 12.5,
+                "React Native": 25.0,
+                "Flask": 12.5,
+                "MySQL": 12.5,
+                "Angular": 12.5
+            },
+            "count": 6
+        },
+        "2015": {
+            "skills": {
+                "C#": 100.0
+            },
+            "count": 1
+        },
+        "2017": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 0
+        },
+        "2018": {
+            "skills": {
+                "Flask": 50.0,
+                "React Native": 50.0
+            },
+            "count": 1
+        },
+        "2019": {
+            "skills": {
+                "Android": 50.0,
+                "Flask": 50.0
+            },
+            "count": 2
+        },
+        "2020": {
+            "skills": {
+                "Flask": 50.0,
+                "Android": 50.0
+            },
+            "count": 4
+        },
+        "2021": {
+            "skills": {
+                "Android": 22.22,
+                "React Native": 11.11,
+                "AWS": 22.22
+            },
+            "count": 4
+        },
+        "2023": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 0
+        }
+    },
+    "IBM": {
+        "2004": {
+            "skills": {
+                "ASP.NET": 4.55,
+                "Java": 13.64,
+                "Python": 13.64,
+                "AJAX": 4.55,
+                "C++": 4.55,
+                "PHP": 4.55
+            },
+            "count": 19
+        },
+        "2005": {
+            "skills": {
+                "React Native": 10.26,
+                "Flask": 2.56,
+                "Python": 7.69,
+                "PHP": 2.56,
+                "Java": 5.13,
+                "C#": 5.13,
+                "Android": 5.13
+            },
+            "count": 22
+        },
+        "2006": {
+            "skills": {
+                "Flask": 10.26,
+                "React Native": 7.69,
+                "PostgreSQL": 5.13,
+                "Ruby": 5.13,
+                "Python": 2.56,
+                "Angular": 2.56,
+                "Android": 2.56,
+                "Figma": 2.56,
+                "MySQL": 2.56,
+                "PyCharm": 2.56
+            },
+            "count": 26
+        },
+        "2007": {
+            "skills": {
+                "Flask": 7.14,
+                "PyCharm": 7.14,
+                "C++": 7.14,
+                "AJAX": 7.14,
+                "Python": 14.29,
+                "AWS": 7.14,
+                "Angular": 14.29,
+                "HTML5": 7.14
+            },
+            "count": 19
+        },
+        "2008": {
+            "skills": {
+                "Java": 12.5,
+                "R": 3.12,
+                "Python": 9.38,
+                "React Native": 6.25,
+                "C#": 3.12,
+                "Android": 3.12
+            },
+            "count": 16
+        },
+        "2009": {
+            "skills": {
+                "SAP": 3.45,
+                "Python": 10.34,
+                "Git": 3.45,
+                "Flask": 10.34,
+                "React Native": 6.9,
+                "Java": 6.9,
+                "C++": 3.45
+            },
+            "count": 16
+        },
+        "2010": {
+            "skills": {
+                "C#": 9.09,
+                "PyCharm": 9.09,
+                "Android": 9.09,
+                "C++": 9.09,
+                "Java": 18.18,
+                "Python": 9.09,
+                "Vue.js": 9.09,
+                "React.js": 9.09
+            },
+            "count": 18
+        },
+        "2011": {
+            "skills": {
+                "MySQL": 4.17,
+                "React.js": 4.17,
+                "Java": 8.33,
+                "Flask": 16.67,
+                "Salesforce": 4.17,
+                "SQL": 4.17
+            },
+            "count": 21
+        },
+        "2012": {
+            "skills": {
+                "Python": 9.09,
+                "Java": 18.18,
+                "ASP": 9.09,
+                "C#": 9.09,
+                "C++": 9.09,
+                "Angular": 9.09,
+                "Springboot": 9.09,
+                "Perl": 9.09
+            },
+            "count": 21
+        },
+        "2013": {
+            "skills": {
+                "Ruby": 15.38,
+                "Python": 15.38,
+                "React Native": 7.69,
+                "Android": 7.69,
+                "Java": 7.69,
+                "MySQL": 7.69,
+                "PHP": 7.69
+            },
+            "count": 24
+        },
+        "2014": {
+            "skills": {
+                "Java": 18.18,
+                "HTML-CSS": 9.09,
+                "PostgreSQL": 9.09,
+                "Python": 18.18,
+                "Android": 9.09
+            },
+            "count": 28
+        },
+        "2015": {
+            "skills": {
+                "MySQL": 1.69,
+                "Python": 8.47,
+                "Android": 3.39,
+                "JavaScript": 3.39,
+                "Node.js": 1.69,
+                "Java": 5.08,
+                "C#": 1.69,
+                "Adobe": 1.69,
+                "Flask": 5.08,
+                "React Native": 1.69,
+                "Ruby": 1.69,
+                "PyCharm": 1.69,
+                "Artificial Intelligence": 1.69
+            },
+            "count": 27
+        },
+        "2016": {
+            "skills": {
+                "Java": 9.52,
+                "Android": 9.52,
+                "C#": 4.76,
+                "AWS": 4.76,
+                "HTML-CSS": 4.76,
+                "SAP": 4.76,
+                "React Native": 14.29
+            },
+            "count": 28
+        },
+        "2017": {
+            "skills": {
+                "Python": 11.11,
+                "Java": 11.11,
+                "Android": 11.11,
+                "Artificial Intelligence": 5.56,
+                "PHP": 5.56,
+                "C++": 11.11
+            },
+            "count": 19
+        },
+        "2018": {
+            "skills": {
+                "React Native": 14.29,
+                "MySQL": 14.29,
+                "Android": 14.29,
+                "Flask": 14.29,
+                "Java": 14.29,
+                "Python": 14.29,
+                "Node.js": 14.29
+            },
+            "count": 16
+        },
+        "2019": {
+            "skills": {
+                "Java": 50.0,
+                "Python": 50.0
+            },
+            "count": 15
+        },
+        "2020": {
+            "skills": {
+                "React Native": 10.0,
+                "Python": 10.0,
+                "Java": 20.0,
+                "CSS3": 10.0,
+                "PyCharm": 10.0,
+                "MySQL": 10.0,
+                "Android": 10.0
+            },
+            "count": 28
+        },
+        "2021": {
+            "skills": {
+                "Java": 12.5,
+                "Springboot": 3.12,
+                "HTML5": 3.12,
+                "Flask": 6.25,
+                "Figma": 3.12,
+                "C++": 3.12,
+                "JavaScript": 3.12,
+                "React Native": 3.12,
+                "Python": 6.25,
+                "C#": 3.12,
+                "Oracle E-Business Suite": 3.12
+            },
+            "count": 33
+        },
+        "2022": {
+            "skills": {
+                "Java": 9.09,
+                "React Native": 9.09,
+                "C#": 2.27,
+                "PHP": 2.27,
+                "Figma": 2.27,
+                "Android": 4.55,
+                "Python": 4.55,
+                "Git": 2.27
+            },
+            "count": 35
+        },
+        "2023": {
+            "skills": {
+                "Angular": 6.25,
+                "Vue.js": 12.5,
+                "Flask": 6.25,
+                "Node.js": 6.25,
+                "Android": 18.75
+            },
+            "count": 27
+        },
+        "2024": {
+            "skills": {
+                "Python": 21.43,
+                "React Native": 14.29,
+                "Flask": 7.14
+            },
+            "count": 19
+        }
+    },
+    "Accenture": {
+        "2004": {
+            "skills": {
+                "Android": 14.29,
+                "Perl": 14.29,
+                "PHP": 14.29,
+                "C++": 14.29,
+                "React Native": 14.29,
+                "Microsoft Excel": 14.29,
+                "Springboot": 14.29
+            },
+            "count": 7
+        },
+        "2005": {
+            "skills": {
+                "PyCharm": 50.0,
+                "Java": 50.0
+            },
+            "count": 7
+        },
+        "2006": {
+            "skills": {
+                "C++": 7.69,
+                "Adobe": 7.69,
+                "Java": 15.38,
+                "React Native": 7.69,
+                "SAP": 7.69,
+                "Angular": 15.38,
+                "AWS": 7.69
+            },
+            "count": 9
+        },
+        "2007": {
+            "skills": {
+                "Python": 30.0,
+                "SAP": 10.0
+            },
+            "count": 14
+        },
+        "2008": {
+            "skills": {
+                "C#": 6.67,
+                "Flask": 13.33,
+                "Android": 6.67,
+                "Python": 6.67,
+                "Angular": 6.67,
+                "AJAX": 6.67,
+                "React Native": 13.33,
+                "C++": 6.67,
+                "JavaScript": 6.67
+            },
+            "count": 10
+        },
+        "2009": {
+            "skills": {
+                "Python": 22.22,
+                "Android": 11.11,
+                "Flask": 11.11,
+                "PyCharm": 11.11,
+                "Vue.js": 11.11,
+                "PHP": 11.11
+            },
+            "count": 7
+        },
+        "2010": {
+            "skills": {
+                "AWS": 10.0,
+                "Python": 20.0,
+                "PHP": 10.0,
+                "React Native": 10.0,
+                "Flask": 10.0,
+                "JavaScript": 10.0,
+                "Java": 10.0
+            },
+            "count": 7
+        },
+        "2012": {
+            "skills": {
+                "Adobe": 25.0,
+                "React Native": 25.0,
+                "Android": 25.0,
+                "MySQL": 25.0
+            },
+            "count": 7
+        },
+        "2013": {
+            "skills": {
+                "Android": 25.0,
+                "Flask": 25.0,
+                "Java": 25.0,
+                "Excel": 25.0
+            },
+            "count": 7
+        },
+        "2014": {
+            "skills": {
+                "PHP": 25.0,
+                "Java": 25.0,
+                "C++": 25.0,
+                "CSS3": 25.0
+            },
+            "count": 9
+        },
+        "2015": {
+            "skills": {
+                "AWS": 5.88,
+                "Java": 11.76,
+                "Flask": 5.88,
+                "Artificial Intelligence": 5.88,
+                "Android": 17.65,
+                "Python": 5.88
+            },
+            "count": 12
+        },
+        "2016": {
+            "skills": {
+                "Java": 15.79,
+                "Ruby": 15.79,
+                "Python": 5.26
+            },
+            "count": 19
+        },
+        "2017": {
+            "skills": {
+                "HTML-CSS": 20.0,
+                "Python": 20.0,
+                "Flask": 20.0,
+                "Java": 20.0,
+                "AWS": 20.0
+            },
+            "count": 7
+        },
+        "2018": {
+            "skills": {
+                "Python": 14.29,
+                "Flask": 14.29,
+                "PyCharm": 14.29,
+                "PHP": 14.29,
+                "Java": 14.29,
+                "PostgreSQL": 14.29,
+                "C++": 14.29
+            },
+            "count": 6
+        },
+        "2019": {
+            "skills": {
+                "JavaScript": 9.09,
+                "Flask": 18.18,
+                "React Native": 9.09,
+                "Java": 18.18,
+                "Android": 9.09
+            },
+            "count": 8
+        },
+        "2020": {
+            "skills": {
+                "Python": 25.0,
+                "SAP": 12.5,
+                "React.js": 12.5,
+                "Java": 12.5,
+                "JavaScript": 12.5
+            },
+            "count": 8
+        },
+        "2021": {
+            "skills": {
+                "Flask": 25.0,
+                "Android": 12.5,
+                "React Native": 12.5,
+                "MySQL": 12.5,
+                "Azure": 12.5
+            },
+            "count": 10
+        },
+        "2022": {
+            "skills": {
+                "Perl": 12.5,
+                "Java": 12.5,
+                "PHP": 12.5,
+                "Python": 25.0,
+                "MySQL": 12.5
+            },
+            "count": 7
+        },
+        "2023": {
+            "skills": {
+                "Azure": 12.5,
+                "Java": 12.5,
+                "Ruby": 25.0,
+                "Flask": 12.5,
+                "AWS": 12.5
+            },
+            "count": 7
+        },
+        "2024": {
+            "skills": {
+                "C++": 50.0
+            },
+            "count": 8
+        }
+    },
+    "Amazon": {
+        "2004": {
+            "skills": {
+                "Python": 33.33,
+                "Flask": 33.33,
+                "SAP": 33.33
+            },
+            "count": 5
+        },
+        "2005": {
+            "skills": {
+                "Python": 12.5,
+                "Oracle E-Business Suite": 12.5,
+                "PyCharm": 12.5,
+                "React Native": 12.5,
+                "Java": 12.5,
+                "PHP": 12.5,
+                "Android": 12.5,
+                "MySQL": 12.5
+            },
+            "count": 8
+        },
+        "2006": {
+            "skills": {
+                "React Native": 14.29,
+                "Java": 14.29,
+                "Flask": 14.29,
+                "C#": 14.29,
+                "Python": 14.29,
+                "PyCharm": 14.29,
+                "Android": 14.29
+            },
+            "count": 8
+        },
+        "2007": {
+            "skills": {
+                "Android": 33.33,
+                "Springboot": 33.33,
+                "Java": 33.33
+            },
+            "count": 8
+        },
+        "2008": {
+            "skills": {
+                "Java": 25.0,
+                "Python": 12.5,
+                "Oracle E-Business Suite": 12.5,
+                "Android": 12.5,
+                "Flask": 12.5
+            },
+            "count": 9
+        },
+        "2009": {
+            "skills": {
+                "Java": 14.29,
+                "Python": 28.57,
+                "MongoDB": 14.29,
+                "VMware": 14.29
+            },
+            "count": 8
+        },
+        "2010": {
+            "skills": {
+                "Flask": 9.09,
+                "Android": 18.18,
+                "Ruby": 9.09,
+                "Java": 18.18,
+                "React Native": 9.09
+            },
+            "count": 8
+        },
+        "2011": {
+            "skills": {
+                "Java": 25.0,
+                "Python": 12.5,
+                "Springboot": 12.5,
+                "Ruby": 12.5,
+                "Flask": 12.5
+            },
+            "count": 7
+        },
+        "2012": {
+            "skills": {
+                "Java": 16.67,
+                "Android": 16.67,
+                "C#": 16.67,
+                "Python": 16.67,
+                "Salesforce": 16.67,
+                "Flask": 16.67
+            },
+            "count": 6
+        },
+        "2013": {
+            "skills": {
+                "Flask": 23.53,
+                "PyCharm": 5.88
+            },
+            "count": 7
+        },
+        "2014": {
+            "skills": {
+                "Flask": 50.0,
+                "Adobe": 50.0
+            },
+            "count": 3
+        },
+        "2015": {
+            "skills": {
+                "Android": 16.67,
+                "Java": 16.67,
+                "AWS": 16.67,
+                "C#": 16.67,
+                "C++": 16.67,
+                "React Native": 16.67
+            },
+            "count": 7
+        },
+        "2016": {
+            "skills": {
+                "Java": 33.33,
+                "React Native": 33.33,
+                "SAP": 33.33
+            },
+            "count": 8
+        },
+        "2017": {
+            "skills": {
+                "Android": 6.67,
+                "Flask": 20.0,
+                "Python": 13.33,
+                "React Native": 6.67
+            },
+            "count": 9
+        },
+        "2018": {
+            "skills": {
+                "Android": 25.0,
+                "React Native": 12.5,
+                "Java": 12.5,
+                "Flask": 12.5,
+                "Adobe": 12.5
+            },
+            "count": 7
+        },
+        "2019": {
+            "skills": {
+                "Java": 22.22,
+                "JavaScript": 11.11,
+                "Android": 11.11,
+                "Flask": 11.11,
+                "C#": 11.11,
+                "Excel": 11.11
+            },
+            "count": 6
+        },
+        "2020": {
+            "skills": {
+                "Salesforce": 50.0,
+                "Android": 50.0
+            },
+            "count": 6
+        },
+        "2021": {
+            "skills": {
+                "PHP": 20.0,
+                "Angular": 20.0,
+                "React.js": 20.0,
+                "Android": 20.0,
+                "Java": 20.0
+            },
+            "count": 8
+        },
+        "2022": {
+            "skills": {
+                "PyCharm": 14.29,
+                "Python": 14.29,
+                "JavaScript": 14.29,
+                "C++": 14.29,
+                "Java": 14.29,
+                "C#": 14.29,
+                "Flask": 14.29
+            },
+            "count": 9
+        },
+        "2023": {
+            "skills": {
+                "Azure": 11.11,
+                "Python": 11.11,
+                "Android": 11.11,
+                "HTML5": 11.11,
+                "Java": 22.22,
+                "PHP": 11.11
+            },
+            "count": 9
+        },
+        "2024": {
+            "skills": {
+                "SQL": 14.29,
+                "PostgreSQL": 14.29,
+                "Python": 28.57,
+                "C++": 14.29
+            },
+            "count": 8
+        }
+    },
+    "Dell Technologies": {
+        "2004": {
+            "skills": {
+                "Android": 20.0,
+                "Java": 20.0,
+                "PHP": 20.0,
+                "Flask": 20.0,
+                "React Native": 20.0
+            },
+            "count": 4
+        },
+        "2005": {
+            "skills": {
+                "Python": 8.33,
+                "HTML-CSS": 8.33,
+                "React Native": 25.0,
+                "C++": 8.33
+            },
+            "count": 10
+        },
+        "2006": {
+            "skills": {
+                "PHP": 25.0,
+                "C++": 25.0,
+                "Java": 25.0,
+                "JavaScript": 25.0
+            },
+            "count": 4
+        },
+        "2007": {
+            "skills": {
+                "Flask": 9.09,
+                "Android": 9.09,
+                "Python": 27.27
+            },
+            "count": 8
+        },
+        "2008": {
+            "skills": {
+                "PyCharm": 33.33,
+                "Java": 33.33,
+                "Python": 33.33
+            },
+            "count": 4
+        },
+        "2009": {
+            "skills": {
+                "PyCharm": 25.0,
+                "Java": 25.0,
+                "Android": 25.0,
+                "Azure": 25.0
+            },
+            "count": 7
+        },
+        "2010": {
+            "skills": {
+                "C++": 25.0,
+                "React Native": 25.0,
+                "Flask": 25.0,
+                "Azure": 25.0
+            },
+            "count": 5
+        },
+        "2011": {
+            "skills": {
+                "Python": 33.33,
+                "React Native": 33.33,
+                "C#": 33.33
+            },
+            "count": 3
+        },
+        "2012": {
+            "skills": {
+                "Java": 28.57,
+                "Perl": 14.29,
+                "Flask": 14.29,
+                "C++": 14.29
+            },
+            "count": 5
+        },
+        "2013": {
+            "skills": {
+                "Android": 100.0
+            },
+            "count": 4
+        },
+        "2014": {
+            "skills": {
+                "Java": 20.0,
+                "Flask": 20.0,
+                "Springboot": 20.0,
+                "React Native": 20.0,
+                "Android": 20.0
+            },
+            "count": 6
+        },
+        "2015": {
+            "skills": {
+                "NLP": 16.67,
+                "React Native": 33.33,
+                "Ruby": 16.67
+            },
+            "count": 4
+        },
+        "2016": {
+            "skills": {
+                "MySQL": 33.33,
+                "Vue.js": 33.33,
+                "Flask": 33.33
+            },
+            "count": 4
+        },
+        "2017": {
+            "skills": {
+                "Angular": 14.29,
+                "Python": 14.29,
+                "React Native": 14.29,
+                "Flask": 14.29,
+                "Java": 14.29,
+                "Android": 14.29,
+                "Azure": 14.29
+            },
+            "count": 6
+        },
+        "2018": {
+            "skills": {
+                "Flask": 10.0,
+                "Ruby": 20.0,
+                "Python": 10.0,
+                "Java": 10.0,
+                "Android": 10.0,
+                "PHP": 10.0,
+                "C++": 10.0
+            },
+            "count": 4
+        },
+        "2019": {
+            "skills": {
+                "React Native": 33.33,
+                "C#": 33.33,
+                "Android": 33.33
+            },
+            "count": 5
+        },
+        "2020": {
+            "skills": {
+                "Flask": 33.33,
+                "Python": 16.67,
+                "Figma": 16.67
+            },
+            "count": 8
+        },
+        "2021": {
+            "skills": {
+                "C++": 20.0,
+                "Java": 20.0,
+                "Android": 20.0,
+                "ASP.NET": 20.0,
+                "PHP": 20.0
+            },
+            "count": 4
+        },
+        "2022": {
+            "skills": {
+                "AWS": 50.0,
+                "React Native": 50.0
+            },
+            "count": 4
+        },
+        "2023": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 5
+        },
+        "2024": {
+            "skills": {
+                "Python": 40.0,
+                "AWS": 20.0
+            },
+            "count": 4
+        }
+    },
+    "SAP SE": {
+        "2004": {
+            "skills": {
+                "Java": 25.0,
+                "Python": 25.0,
+                "React Native": 25.0,
+                "Flask": 25.0
+            },
+            "count": 7
+        },
+        "2005": {
+            "skills": {
+                "Flask": 16.67,
+                "React Native": 16.67,
+                "Java": 16.67,
+                "Ruby": 16.67,
+                "Android": 16.67,
+                "C#": 16.67
+            },
+            "count": 5
+        },
+        "2006": {
+            "skills": {
+                "React Native": 14.29,
+                "Java": 28.57,
+                "CSS3": 14.29,
+                "Flask": 14.29
+            },
+            "count": 7
+        },
+        "2007": {
+            "skills": {
+                "React Native": 25.0,
+                "Oracle E-Business Suite": 25.0,
+                "ASP": 25.0,
+                "Python": 25.0
+            },
+            "count": 8
+        },
+        "2008": {
+            "skills": {
+                "HTML-CSS": 10.0,
+                "Android": 20.0,
+                "Java": 10.0,
+                "Flask": 10.0,
+                "AWS": 10.0,
+                "Azure": 10.0,
+                "Python": 10.0
+            },
+            "count": 8
+        },
+        "2009": {
+            "skills": {
+                "ASP.NET": 6.67,
+                "Android": 13.33,
+                "Flask": 6.67,
+                "Python": 13.33,
+                "Java": 13.33,
+                "Vue.js": 6.67
+            },
+            "count": 8
+        },
+        "2010": {
+            "skills": {
+                "Java": 50.0,
+                "Flask": 50.0
+            },
+            "count": 8
+        },
+        "2011": {
+            "skills": {
+                "MySQL": 25.0,
+                "Python": 25.0,
+                "React Native": 25.0,
+                "Flask": 25.0
+            },
+            "count": 9
+        },
+        "2012": {
+            "skills": {
+                "ASP.NET": 12.5,
+                "Android": 12.5,
+                "Adobe": 12.5,
+                "Python": 12.5,
+                "Java": 12.5,
+                "React Native": 12.5,
+                "C++": 12.5,
+                "SAP": 12.5
+            },
+            "count": 7
+        },
+        "2013": {
+            "skills": {
+                "Python": 14.29,
+                "Android": 28.57,
+                "Flask": 14.29,
+                "Java": 14.29
+            },
+            "count": 7
+        },
+        "2014": {
+            "skills": {
+                "C++": 12.5,
+                "Flask": 12.5,
+                "Java": 12.5,
+                "Android": 25.0,
+                "React Native": 12.5
+            },
+            "count": 8
+        },
+        "2015": {
+            "skills": {
+                "React Native": 7.69,
+                "C#": 7.69,
+                "Java": 15.38,
+                "Flask": 7.69,
+                "C++": 7.69,
+                "Android": 15.38,
+                "ASP.NET": 7.69
+            },
+            "count": 8
+        },
+        "2016": {
+            "skills": {
+                "HTML-CSS": 5.0,
+                "Android": 20.0,
+                "C#": 5.0,
+                "PyCharm": 5.0,
+                "Flask": 5.0
+            },
+            "count": 8
+        },
+        "2017": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 7
+        },
+        "2018": {
+            "skills": {
+                "Python": 10.0,
+                "SAP": 10.0,
+                "AWS": 5.0,
+                "Springboot": 5.0,
+                "Flask": 15.0,
+                "React Native": 5.0
+            },
+            "count": 8
+        },
+        "2019": {
+            "skills": {
+                "React Native": 9.09,
+                "Android": 18.18,
+                "C++": 9.09,
+                "Python": 9.09,
+                "Java": 18.18
+            },
+            "count": 6
+        },
+        "2020": {
+            "skills": {
+                "React Native": 16.67,
+                "Python": 16.67,
+                "Java": 33.33
+            },
+            "count": 6
+        },
+        "2021": {
+            "skills": {
+                "VMware": 9.09,
+                "Java": 18.18,
+                "JavaScript": 9.09,
+                "Android": 9.09,
+                "Node.js": 9.09,
+                "HTML-CSS": 9.09,
+                "C++": 9.09,
+                "ASP.NET": 9.09
+            },
+            "count": 9
+        },
+        "2022": {
+            "skills": {
+                "Azure": 33.33,
+                "Flask": 33.33,
+                "Android": 33.33
+            },
+            "count": 6
+        },
+        "2023": {
+            "skills": {
+                "PHP": 20.0,
+                "Java": 20.0,
+                "HTML5": 20.0,
+                "Angular": 20.0,
+                "Oracle E-Business Suite": 20.0
+            },
+            "count": 8
+        },
+        "2024": {
+            "skills": {
+                "C#": 100.0
+            },
+            "count": 8
+        }
+    },
+    "Virtusa": {
+        "2004": {
+            "skills": {
+                "Java": 17.65,
+                "Azure": 5.88,
+                "Ruby": 5.88,
+                "SAP": 5.88,
+                "Android": 5.88,
+                "React Native": 5.88,
+                "Flask": 5.88,
+                "AWS": 5.88,
+                "Python": 5.88
+            },
+            "count": 10
+        },
+        "2005": {
+            "skills": {
+                "Android": 9.09,
+                "Python": 27.27,
+                "PHP": 9.09
+            },
+            "count": 11
+        },
+        "2006": {
+            "skills": {
+                "Python": 3.57,
+                "Java": 10.71,
+                "React Native": 10.71,
+                "SAP": 3.57,
+                "Azure": 7.14,
+                "C++": 7.14
+            },
+            "count": 12
+        },
+        "2007": {
+            "skills": {
+                "Java": 50.0,
+                "Android": 50.0
+            },
+            "count": 10
+        },
+        "2008": {
+            "skills": {
+                "Flask": 25.0,
+                "Angular": 12.5,
+                "PostgreSQL": 12.5,
+                "Android": 12.5,
+                "CSS3": 12.5
+            },
+            "count": 8
+        },
+        "2009": {
+            "skills": {
+                "Java": 20.0,
+                "Android": 20.0,
+                "React Native": 20.0,
+                "JavaScript": 20.0,
+                "Angular": 20.0
+            },
+            "count": 6
+        },
+        "2010": {
+            "skills": {
+                "Vue.js": 25.0,
+                "Java": 25.0,
+                "C++": 25.0,
+                "Ruby": 25.0
+            },
+            "count": 4
+        },
+        "2011": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 11
+        },
+        "2012": {
+            "skills": {
+                "Java": 10.0,
+                "Oracle E-Business Suite": 10.0,
+                "React Native": 10.0,
+                "Flask": 10.0,
+                "Python": 20.0,
+                "Excel": 10.0,
+                "C#": 10.0
+            },
+            "count": 11
+        },
+        "2013": {
+            "skills": {
+                "Android": 13.33,
+                "Flask": 13.33,
+                "React Native": 6.67,
+                "AWS": 6.67,
+                "Java": 13.33,
+                "C++": 6.67
+            },
+            "count": 11
+        },
+        "2014": {
+            "skills": {
+                "React Native": 25.0,
+                "Angular": 12.5,
+                "Flask": 12.5,
+                "SAP": 12.5,
+                "Android": 12.5
+            },
+            "count": 12
+        },
+        "2015": {
+            "skills": {
+                "AWS": 33.33,
+                "Flask": 33.33,
+                "Springboot": 33.33
+            },
+            "count": 12
+        },
+        "2016": {
+            "skills": {
+                "React Native": 40.0,
+                "Java": 20.0
+            },
+            "count": 10
+        },
+        "2017": {
+            "skills": {
+                "React Native": 20.0,
+                "Adobe": 20.0,
+                "Android": 20.0,
+                "Angular": 20.0,
+                "React.js": 20.0
+            },
+            "count": 9
+        },
+        "2018": {
+            "skills": {
+                "SAP": 12.5,
+                "Android": 25.0,
+                "Python": 12.5,
+                "PHP": 12.5,
+                "Flask": 12.5
+            },
+            "count": 11
+        },
+        "2019": {
+            "skills": {
+                "Java": 25.0,
+                "Flask": 8.33,
+                "React Native": 8.33,
+                "Python": 8.33
+            },
+            "count": 12
+        },
+        "2020": {
+            "skills": {
+                "AWS": 25.0,
+                "Java": 25.0,
+                "C++": 25.0,
+                "JavaScript": 25.0
+            },
+            "count": 12
+        },
+        "2021": {
+            "skills": {
+                "React Native": 6.45,
+                "Java": 12.9,
+                "Python": 9.68,
+                "MySQL": 3.23,
+                "PHP": 3.23
+            },
+            "count": 11
+        },
+        "2022": {
+            "skills": {
+                "CSS3": 7.69,
+                "Java": 15.38,
+                "Android": 7.69,
+                "PHP": 7.69,
+                "Python": 7.69,
+                "Azure": 7.69,
+                "Flask": 15.38
+            },
+            "count": 11
+        },
+        "2023": {
+            "skills": {
+                "Python": 20.0,
+                "React Native": 5.0,
+                "Angular": 5.0,
+                "Flask": 5.0,
+                "C#": 5.0
+            },
+            "count": 11
+        },
+        "2024": {
+            "skills": {
+                "NLP": 50.0,
+                "Figma": 50.0
+            },
+            "count": 8
+        }
+    },
+    "Dell Technologies ": {
+        "2005": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 2
+        },
+        "2006": {
+            "skills": {
+                "AWS": 11.11,
+                "MySQL": 22.22,
+                "Adobe": 11.11,
+                "Java": 11.11,
+                "React.js": 11.11,
+                "Android": 11.11
+            },
+            "count": 2
+        },
+        "2007": {
+            "skills": {
+                "Node.js": 100.0
+            },
+            "count": 1
+        },
+        "2008": {
+            "skills": {
+                "Python": 33.33,
+                "Android": 33.33,
+                "Java": 33.33
+            },
+            "count": 3
+        },
+        "2011": {
+            "skills": {
+                "Android": 33.33,
+                "Python": 33.33,
+                "Java": 33.33
+            },
+            "count": 3
+        },
+        "2012": {
+            "skills": {
+                "Java": 14.29,
+                "Python": 28.57,
+                "Microsoft Excel": 14.29,
+                "SAP": 14.29
+            },
+            "count": 6
+        },
+        "2014": {
+            "skills": {
+                "Python": 50.0,
+                "Java": 50.0
+            },
+            "count": 2
+        },
+        "2016": {
+            "skills": {
+                "Flask": 100.0
+            },
+            "count": 2
+        },
+        "2017": {
+            "skills": {
+                "Flask": 100.0
+            },
+            "count": 4
+        },
+        "2018": {
+            "skills": {
+                "MySQL": 12.5,
+                "React Native": 12.5,
+                "Android": 25.0,
+                "Python": 12.5,
+                "AWS": 12.5
+            },
+            "count": 7
+        },
+        "2020": {
+            "skills": {
+                "SAP": 100.0
+            },
+            "count": 2
+        },
+        "2022": {
+            "skills": {
+                "Python": 100.0
+            },
+            "count": 2
+        },
+        "2024": {
+            "skills": {
+                "Android": 100.0
+            },
+            "count": 3
+        }
+    },
+    "Hewlett-Packard": {
+        "2007": {
+            "skills": {
+                "PyCharm": 100.0
+            },
+            "count": 1
+        },
+        "2008": {
+            "skills": {
+                "React Native": 50.0,
+                "Node.js": 50.0
+            },
+            "count": 2
+        },
+        "2009": {
+            "skills": {
+                "React Native": 50.0,
+                "SAP": 50.0
+            },
+            "count": 2
+        },
+        "2010": {
+            "skills": {
+                "Android": 50.0,
+                "MySQL": 50.0
+            },
+            "count": 3
+        },
+        "2012": {
+            "skills": {
+                "Python": 33.33,
+                "React Native": 33.33,
+                "React.js": 33.33
+            },
+            "count": 2
+        },
+        "2013": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 2
+        },
+        "2014": {
+            "skills": {
+                "Python": 50.0,
+                "C#": 50.0
+            },
+            "count": 2
+        },
+        "2015": {
+            "skills": {
+                "Perl": 50.0,
+                "MySQL": 50.0
+            },
+            "count": 2
+        },
+        "2016": {
+            "skills": {
+                "Android": 40.0,
+                "React Native": 20.0
+            },
+            "count": 3
+        },
+        "2017": {
+            "skills": {
+                "JavaScript": 100.0
+            },
+            "count": 1
+        },
+        "2018": {
+            "skills": {
+                "Salesforce": 50.0,
+                "Java": 50.0
+            },
+            "count": 1
+        },
+        "2019": {
+            "skills": {
+                "C#": 33.33,
+                "React Native": 33.33,
+                "Ruby": 33.33
+            },
+            "count": 2
+        },
+        "2020": {
+            "skills": {
+                "Flask": 50.0,
+                "Android": 50.0
+            },
+            "count": 2
+        },
+        "2021": {
+            "skills": {
+                "Java": 100.0
+            },
+            "count": 2
+        },
+        "2023": {
+            "skills": {
+                "Java": 50.0,
+                "Python": 50.0
+            },
+            "count": 2
+        }
+    },
+    "Rinex": {
+        "2004": {
+            "skills": {
+                "Flask": 14.29,
+                "SAP": 14.29,
+                "C++": 14.29,
+                "Artificial Intelligence": 14.29,
+                "Java": 14.29,
+                "C#": 14.29,
+                "SQL": 14.29
+            },
+            "count": 8
+        },
+        "2005": {
+            "skills": {
+                "Flask": 7.69,
+                "React Native": 15.38,
+                "Python": 15.38,
+                "NLP": 7.69,
+                "Ruby": 7.69,
+                "Android": 7.69,
+                "C#": 7.69
+            },
+            "count": 8
+        },
+        "2006": {
+            "skills": {
+                "Android": 15.38,
+                "Java": 7.69,
+                "React Native": 7.69,
+                "Python": 15.38,
+                "Springboot": 7.69,
+                "Ruby": 7.69,
+                "MySQL": 7.69
+            },
+            "count": 7
+        },
+        "2007": {
+            "skills": {
+                "Flask": 25.0,
+                "Java": 25.0,
+                "React.js": 25.0,
+                "Python": 25.0
+            },
+            "count": 8
+        },
+        "2008": {
+            "skills": {
+                "Java": 28.57,
+                "Flask": 14.29,
+                "Python": 14.29,
+                "PyCharm": 14.29
+            },
+            "count": 8
+        },
+        "2009": {
+            "skills": {
+                "Java": 33.33,
+                "React Native": 33.33,
+                "Angular": 33.33
+            },
+            "count": 10
+        },
+        "2010": {
+            "skills": {
+                "Python": 33.33,
+                "C++": 16.67,
+                "Springboot": 16.67
+            },
+            "count": 9
+        },
+        "2011": {
+            "skills": {
+                "React Native": 100.0
+            },
+            "count": 8
+        },
+        "2012": {
+            "skills": {
+                "Java": 20.0,
+                "Python": 10.0,
+                "Vue.js": 10.0,
+                "MySQL": 10.0,
+                "Flask": 10.0,
+                "Android": 10.0,
+                "PyCharm": 10.0
+            },
+            "count": 8
+        },
+        "2013": {
+            "skills": {
+                "Python": 25.0,
+                "Java": 25.0,
+                "React Native": 25.0,
+                "Flask": 25.0
+            },
+            "count": 8
+        },
+        "2014": {
+            "skills": {
+                "HTML-CSS": 7.14,
+                "React Native": 21.43,
+                "Angular": 7.14,
+                "Python": 7.14,
+                "Git": 7.14,
+                "C#": 7.14
+            },
+            "count": 8
+        },
+        "2015": {
+            "skills": {
+                "MySQL": 10.0,
+                "Flask": 10.0,
+                "Android": 20.0,
+                "Java": 10.0,
+                "Python": 10.0,
+                "React Native": 10.0,
+                "HTML5": 10.0
+            },
+            "count": 8
+        },
+        "2016": {
+            "skills": {
+                "Android": 20.0,
+                "ASP": 20.0,
+                "C#": 20.0,
+                "Vue.js": 20.0,
+                "C++": 20.0
+            },
+            "count": 8
+        },
+        "2017": {
+            "skills": {
+                "Android": 30.0,
+                "Java": 10.0
+            },
+            "count": 8
+        },
+        "2018": {
+            "skills": {
+                "AJAX": 6.25,
+                "Android": 12.5,
+                "React Native": 12.5,
+                "CSS3": 6.25,
+                "Java": 12.5,
+                "Flask": 6.25,
+                "C++": 6.25
+            },
+            "count": 10
+        },
+        "2019": {
+            "skills": {
+                "PostgreSQL": 7.69,
+                "Vue.js": 15.38,
+                "AJAX": 7.69,
+                "Python": 15.38,
+                "Angular": 7.69,
+                "React Native": 7.69,
+                "Android": 7.69
+            },
+            "count": 9
+        },
+        "2020": {
+            "skills": {
+                "React.js": 40.0,
+                "Flask": 20.0
+            },
+            "count": 8
+        },
+        "2021": {
+            "skills": {
+                "JavaScript": 7.69,
+                "Perl": 7.69,
+                "Flask": 15.38,
+                "React Native": 7.69,
+                "HTML-CSS": 7.69,
+                "Vue.js": 7.69,
+                "Ruby": 15.38
+            },
+            "count": 9
+        },
+        "2022": {
+            "skills": {
+                "Flask": 21.43,
+                "ASP": 7.14,
+                "C#": 7.14,
+                "Vue.js": 7.14,
+                "Android": 7.14,
+                "Java": 7.14
+            },
+            "count": 11
+        },
+        "2023": {
+            "skills": {
+                "Azure": 6.67,
+                "C#": 6.67,
+                "Python": 13.33,
+                "React Native": 13.33,
+                "JavaScript": 6.67,
+                "Ruby": 6.67,
+                "Android": 6.67,
+                "AJAX": 6.67,
+                "PHP": 6.67
+            },
+            "count": 9
+        },
+        "2024": {
+            "skills": {
+                "Android": 25.0,
+                "Java": 25.0,
+                "Python": 25.0,
+                "SAP": 25.0
+            },
+            "count": 8
+        }
+    }
+}
