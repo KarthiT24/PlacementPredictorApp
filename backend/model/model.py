@@ -14,11 +14,11 @@ from io import BytesIO
 app = Flask(__name__)
 
 # Initialize Firebase Admin SDK
-cred_path = 'placementprediction-fp-firebase-adminsdk-miab4-e87b43e44b.json'
-cred = credentials.Certificate(cred_path)
-firebase_admin.initialize_app(cred, {
-    'storageBucket': 'placementprediction-fp.appspot.com'
-})
+# cred_path = 'placementprediction-fp-firebase-adminsdk-miab4-e87b43e44b.json'
+# cred = credentials.Certificate(cred_path)
+# firebase_admin.initialize_app(cred, {
+#     'storageBucket': 'placementprediction-fp.appspot.com'
+# })
 
 class LSTMModel:
     def __init__(self, look_back=4):
